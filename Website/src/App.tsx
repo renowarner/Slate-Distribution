@@ -31,7 +31,7 @@ const App: React.FC = () => {
     const excludedItems = ['21600', '82704', '8006'];
     
     return products.filter(p => {
-      // Filter out specifically excluded items (matching exact or prefix for 8006)
+      // Filter out specifically excluded items
       const isExcluded = excludedItems.some(id => p.Item === id || (id === '8006' && p.Item.startsWith('8006')));
       if (isExcluded) return false;
 
@@ -124,20 +124,19 @@ const App: React.FC = () => {
                     
                     <div className={viewMode === 'grid' ? "p-4 border-t border-slate-50" : "flex-1 px-4 flex items-center justify-between"}>
                       <div className={viewMode === 'grid' ? "" : "flex-1"}>
-                        <div className="flex items-center justify-between mb-1">
-                          <span className="text-[10px] font-bold text-blue-600 uppercase tracking-wider bg-blue-50 px-1.5 py-0.5 rounded">
-                            #{product.Item}
-                          </span>
-                        </div>
                         <h3 className="font-semibold text-slate-900 text-sm line-clamp-2 mb-2 group-hover:text-blue-600 transition-colors h-10">
                           {product.Description}
                         </h3>
                       </div>
 
-                      <div className={viewMode === 'grid' ? "flex items-center justify-between pt-2" : "text-right ml-4"}>
+                      <div className={viewMode === 'grid' ? "flex items-center justify-between pt-2" : "text-right ml-4 flex items-center gap-6"}>
                         <div>
                           <p className="text-[10px] text-slate-400 uppercase font-bold tracking-tighter">Case Count</p>
                           <p className="text-sm font-medium text-slate-700">{product.CaseCount}</p>
+                        </div>
+                        <div className="text-right">
+                          <p className="text-[10px] text-slate-400 uppercase font-bold tracking-tighter">Item #</p>
+                          <p className="text-sm font-bold text-blue-600">#{product.Item}</p>
                         </div>
                       </div>
                     </div>
