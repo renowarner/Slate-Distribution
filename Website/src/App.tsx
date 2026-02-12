@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import catalogData from './data/catalog.json';
-import { Search, Package, ChevronRight, LayoutGrid, List } from 'lucide-react';
+import { Search, Package, LayoutGrid, List } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 interface Product {
@@ -14,17 +14,10 @@ interface Product {
 
 const App: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
-  const [selectedPage, setSelectedPage] = useState<string | null>(null);
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
 
   const products = catalogData.products as Product[];
   const images = catalogData.images as string[];
-
-  // Unique pages for the sidebar/filter
-  const pages = useMemo(() => {
-    const uniquePages = Array.from(new Set(products.map(p => p.Page))).sort((a, b) => parseInt(a) - parseInt(b));
-    return uniquePages;
-  }, [products]);
 
   // Image mapping helper
   const getProductImage = (item: string) => {
@@ -34,17 +27,22 @@ const App: React.FC = () => {
   };
 
   const filteredProducts = useMemo(() => {
+    // List of items to exclude
+    const excludedItems = ['21600', '82704', '8006'];
+    
     return products.filter(p => {
+      // Filter out specifically excluded items (matching exact or prefix for 8006)
+      const isExcluded = excludedItems.some(id => p.Item === id || (id === '8006' && p.Item.startsWith('8006')));
+      if (isExcluded) return false;
+
       const matchesSearch = 
         p.Description.toLowerCase().includes(searchTerm.toLowerCase()) ||
         p.Item.includes(searchTerm) ||
         p.UPC.includes(searchTerm);
       
-      const matchesPage = selectedPage ? p.Page === selectedPage : true;
-      
-      return matchesSearch && matchesPage;
+      return matchesSearch;
     });
-  }, [products, searchTerm, selectedPage]);
+  }, [products, searchTerm]);
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
@@ -85,54 +83,11 @@ const App: React.FC = () => {
       </header>
 
       <div className="flex-1 flex overflow-hidden">
-        {/* Sidebar - Hidden on mobile, scrollable on desktop */}
-        <aside className="hidden md:block w-64 bg-white border-r border-slate-200 overflow-y-auto p-4">
-          <h2 className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-4">Categories (Pages)</h2>
-          <nav className="space-y-1">
-            <button
-              onClick={() => setSelectedPage(null)}
-              className={`w-full text-left px-3 py-2 rounded-md transition-colors ${!selectedPage ? 'bg-blue-50 text-blue-700 font-medium' : 'text-slate-600 hover:bg-slate-50'}`}
-            >
-              All Products
-            </button>
-            {pages.map(page => (
-              <button
-                key={page}
-                onClick={() => setSelectedPage(page)}
-                className={`w-full text-left px-3 py-2 rounded-md transition-colors flex items-center justify-between ${selectedPage === page ? 'bg-blue-50 text-blue-700 font-medium' : 'text-slate-600 hover:bg-slate-50'}`}
-              >
-                <span>Page {page}</span>
-                <ChevronRight size={14} className={selectedPage === page ? 'opacity-100' : 'opacity-0'} />
-              </button>
-            ))}
-          </nav>
-        </aside>
-
         {/* Main Content Area */}
         <main className="flex-1 overflow-y-auto p-4 md:p-8">
-          {/* Mobile Category Chips */}
-          <div className="md:hidden flex overflow-x-auto gap-2 mb-6 pb-2 no-scrollbar">
-            <button
-              onClick={() => setSelectedPage(null)}
-              className={`whitespace-nowrap px-4 py-1.5 rounded-full text-sm font-medium ${!selectedPage ? 'bg-blue-600 text-white' : 'bg-white border border-slate-200 text-slate-600'}`}
-            >
-              All
-            </button>
-            {pages.map(page => (
-              <button
-                key={page}
-                onClick={() => setSelectedPage(page)}
-                className={`whitespace-nowrap px-4 py-1.5 rounded-full text-sm font-medium ${selectedPage === page ? 'bg-blue-600 text-white' : 'bg-white border border-slate-200 text-slate-600'}`}
-              >
-                Page {page}
-              </button>
-            ))}
-          </div>
-
           <div className="mb-4 flex items-center justify-between">
             <p className="text-slate-500 text-sm">
               Showing <span className="font-semibold text-slate-900">{filteredProducts.length}</span> products
-              {selectedPage && <span> in Page {selectedPage}</span>}
             </p>
           </div>
 
@@ -153,7 +108,7 @@ const App: React.FC = () => {
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, scale: 0.9 }}
-                    transition={{ duration: 0.2, delay: Math.min(idx * 0.02, 0.5) }}
+                    transition={{ duration: 0.2, delay: Math.min(idx * 0.01, 0.3) }}
                     key={`${product.Item}-${idx}`}
                     className={`bg-white border border-slate-200 rounded-xl overflow-hidden hover:shadow-lg transition-shadow group ${viewMode === 'list' ? 'flex items-center p-2' : ''}`}
                   >
@@ -173,9 +128,6 @@ const App: React.FC = () => {
                           <span className="text-[10px] font-bold text-blue-600 uppercase tracking-wider bg-blue-50 px-1.5 py-0.5 rounded">
                             #{product.Item}
                           </span>
-                          <span className="text-[10px] text-slate-400">
-                            Page {product.Page}
-                          </span>
                         </div>
                         <h3 className="font-semibold text-slate-900 text-sm line-clamp-2 mb-2 group-hover:text-blue-600 transition-colors h-10">
                           {product.Description}
@@ -186,10 +138,6 @@ const App: React.FC = () => {
                         <div>
                           <p className="text-[10px] text-slate-400 uppercase font-bold tracking-tighter">Case Count</p>
                           <p className="text-sm font-medium text-slate-700">{product.CaseCount}</p>
-                        </div>
-                        <div className="text-right">
-                          <p className="text-[10px] text-slate-400 uppercase font-bold tracking-tighter">SRP</p>
-                          <p className="text-sm font-bold text-emerald-600">{product.Retail}</p>
                         </div>
                       </div>
                     </div>
@@ -203,7 +151,7 @@ const App: React.FC = () => {
             <div className="py-20 text-center">
               <Package size={64} className="mx-auto text-slate-200 mb-4" />
               <h3 className="text-lg font-medium text-slate-900">No products found</h3>
-              <p className="text-slate-500">Try adjusting your search or category filter.</p>
+              <p className="text-slate-500">Try adjusting your search terms.</p>
             </div>
           )}
         </main>
