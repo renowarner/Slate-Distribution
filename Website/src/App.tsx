@@ -30,7 +30,7 @@ const App: React.FC = () => {
   const getProductImage = (item: string) => {
     // Try to find image that contains the item number
     const found = images.find(img => img.includes(`_${item}_`));
-    return found ? `/images/${found}` : null;
+    return found ? `${import.meta.env.BASE_URL}images/${found}` : null;
   };
 
   const filteredProducts = useMemo(() => {
