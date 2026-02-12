@@ -13,9 +13,17 @@ const SimpleCatalog: React.FC = () => {
   const uniqueProductPhotos = useMemo(() => {
     const seenHashes = new Set<string>();
     const uniqueDisplay: string[] = [];
+    const excludedFromSimple = [
+      'Page18_90301_Volt_Fast_Charge_10FT_Cable___.png',
+      'Page20_90011_BIC_Favorites__LCWT1FS_.png',
+      'Page35_84106_Apple_Turnover_Danish_5_oz.png',
+      'Page37_04003_Old_Fash_Slab_Jerky_Bulk_IW_Re.png'
+    ];
 
     // Filter images to only those that match items and are unique
     images.forEach(img => {
+      if (excludedFromSimple.includes(img)) return;
+
       // Find if this image belongs to any item
       const belongsToItem = products.some(p => img.includes(`_${p.Item}_`));
       
