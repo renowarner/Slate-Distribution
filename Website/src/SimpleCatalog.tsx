@@ -10,26 +10,32 @@ const SimpleCatalog: React.FC = () => {
   const products = catalogData.products as Product[];
   const images = catalogData.images as string[];
 
-  const productsWithImages = useMemo(() => {
-    return products.filter(p => {
-      return images.some(img => img.includes(`_${p.Item}_`));
-    }).map(p => {
-      const found = images.find(img => img.includes(`_${p.Item}_`));
-      return {
-        ...p,
-        imageUrl: `${import.meta.env.BASE_URL}images/${found}`
-      };
+  const uniqueProductPhotos = useMemo(() => {
+    const seenHashes = new Set<string>();
+    const uniqueDisplay: string[] = [];
+
+    // Filter images to only those that match items and are unique
+    images.forEach(img => {
+      // Find if this image belongs to any item
+      const belongsToItem = products.some(p => img.includes(`_${p.Item}_`));
+      
+      if (belongsToItem && !seenHashes.has(img)) {
+        uniqueDisplay.push(`${import.meta.env.BASE_URL}images/${img}`);
+        seenHashes.add(img);
+      }
     });
+
+    return uniqueDisplay;
   }, [products, images]);
 
   return (
     <div className="min-h-screen bg-white p-4">
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-4">
-        {productsWithImages.map((product, idx) => (
-          <div key={`${product.Item}-${idx}`} className="aspect-square flex items-center justify-center p-2 border border-slate-100 rounded-lg hover:shadow-sm transition-shadow">
+        {uniqueProductPhotos.map((url, idx) => (
+          <div key={idx} className="aspect-square flex items-center justify-center p-2 border border-slate-100 rounded-lg hover:shadow-sm transition-shadow">
             <img 
-              src={product.imageUrl} 
-              alt={product.Description} 
+              src={url} 
+              alt="Catalog Product" 
               className="max-w-full max-h-full object-contain"
               loading="lazy"
             />
