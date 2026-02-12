@@ -1,0 +1,4523 @@
+{
+  "products": [
+    {
+      "Page": "5",
+      "Item": "50606",
+      "Description": "BB Egg Salad Haw.5.1oz.FR",
+      "CaseCount": "12",
+      "Retail": "$4.99",
+      "UPC": "677684412063"
+    },
+    {
+      "Page": "5",
+      "Item": "50608",
+      "Description": "BB Tky & Ched.Crsnt 6.2oz.FR",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "677684412087"
+    },
+    {
+      "Page": "5",
+      "Item": "50609",
+      "Description": "BB Ham & Swiss Crsnt 6.2oz.FR",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "67768412094"
+    },
+    {
+      "Page": "5",
+      "Item": "50624",
+      "Description": "BB Tky Pesto Ciabatta 9.3oz.FR",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "677684414241"
+    },
+    {
+      "Page": "5",
+      "Item": "50679",
+      "Description": "BB Tuna Salad/Honey Oat 5.1oz.FR",
+      "CaseCount": "12",
+      "Retail": "$4.99",
+      "UPC": "677684412070"
+    },
+    {
+      "Page": "5",
+      "Item": "50682",
+      "Description": "BB Monte Cristo 13.7oz.FR",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "677684414821"
+    },
+    {
+      "Page": "5",
+      "Item": "50683",
+      "Description": "BB Reuben 9.6oz.FR",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "677684414838"
+    },
+    {
+      "Page": "5",
+      "Item": "50684",
+      "Description": "BB Cuban Special FR",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "677684414845"
+    },
+    {
+      "Page": "7",
+      "Item": "50319",
+      "Description": "Freshwich Turkey Cheddar Sub 5.5 oz",
+      "CaseCount": "6",
+      "Retail": "$6.99",
+      "UPC": "633920603190"
+    },
+    {
+      "Page": "7",
+      "Item": "50320",
+      "Description": "Freshwich Ham & Swiss Sub 5.5 oz",
+      "CaseCount": "6",
+      "Retail": "$6.99",
+      "UPC": "633920603206"
+    },
+    {
+      "Page": "7",
+      "Item": "50321",
+      "Description": "Freshwich American Club 5.5 oz",
+      "CaseCount": "6",
+      "Retail": "$6.99",
+      "UPC": "633920603213"
+    },
+    {
+      "Page": "7",
+      "Item": "50322",
+      "Description": "Freshwich Italian Club 5.5 oz",
+      "CaseCount": "6",
+      "Retail": "$6.99",
+      "UPC": "633920603220"
+    },
+    {
+      "Page": "8",
+      "Item": "21600",
+      "Description": "Johnson Smokehouse Cascade Trail Mix 4 oz",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "86000260600"
+    },
+    {
+      "Page": "8",
+      "Item": "21601",
+      "Description": "Johnson Spicy Southwest Trail Mix 4 oz",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "86000260601"
+    },
+    {
+      "Page": "8",
+      "Item": "21602",
+      "Description": "Johnson Sweet & Spicy Teriyaki Trail Mix 4 oz",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "86000260602"
+    },
+    {
+      "Page": "8",
+      "Item": "21603",
+      "Description": "Johnson Northwest Style Trail Mix 4 oz",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "86000260603"
+    },
+    {
+      "Page": "9",
+      "Item": "60407",
+      "Description": "Wisconsin's Best Cheddar Stick Combo 3.75 oz",
+      "CaseCount": "12",
+      "Retail": "$4.99",
+      "UPC": "813608014078"
+    },
+    {
+      "Page": "9",
+      "Item": "60409",
+      "Description": "Wisconsin's Best Pepper Jack Combo 3.75 oz",
+      "CaseCount": "12",
+      "Retail": "$4.99",
+      "UPC": "813608014092"
+    },
+    {
+      "Page": "9",
+      "Item": "60464",
+      "Description": "Wisconsin's Best Mixed Cheese Curds 4 oz",
+      "CaseCount": "8",
+      "Retail": "$4.99",
+      "UPC": "813608014641"
+    },
+    {
+      "Page": "9",
+      "Item": "60468",
+      "Description": "Wisconsin's Best Garlic Dill Curds 4 oz",
+      "CaseCount": "8",
+      "Retail": "$4.99",
+      "UPC": "813608014689"
+    },
+    {
+      "Page": "9",
+      "Item": "60482",
+      "Description": "Wisconsin's Best Medium Cheddar 2 oz",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "813608010827"
+    },
+    {
+      "Page": "9",
+      "Item": "60483",
+      "Description": "Wisconsin's Best Colby Jack 2 oz",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "813608010834"
+    },
+    {
+      "Page": "10",
+      "Item": "60100",
+      "Description": "Cheesewich Mozzarella String Cheese 1 oz",
+      "CaseCount": "24",
+      "Retail": "$0.99",
+      "UPC": "709893107109"
+    },
+    {
+      "Page": "10",
+      "Item": "60110",
+      "Description": "Cheesewich Cheddar Cheese 1 oz",
+      "CaseCount": "24",
+      "Retail": "$0.99",
+      "UPC": "709893110109"
+    },
+    {
+      "Page": "10",
+      "Item": "60131",
+      "Description": "Cheesewich Baconwich 1.17 oz",
+      "CaseCount": "12",
+      "Retail": "$2.19",
+      "UPC": "709893020316"
+    },
+    {
+      "Page": "10",
+      "Item": "60200",
+      "Description": "Cheesewich Hard Salami & Colby Jack 2.5 oz",
+      "CaseCount": "16",
+      "Retail": "$3.49",
+      "UPC": "709893002008"
+    },
+    {
+      "Page": "10",
+      "Item": "60300",
+      "Description": "Cheesewich Hard Salami & Pepper Jack 2.5 oz",
+      "CaseCount": "16",
+      "Retail": "$3.49",
+      "UPC": "709893003005"
+    },
+    {
+      "Page": "11",
+      "Item": "21062",
+      "Description": "Original Beef Stick 1 oz",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "819388020629"
+    },
+    {
+      "Page": "11",
+      "Item": "21065",
+      "Description": "Jalape\u00f1o Cheddar Stick 1 oz",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "819388020650"
+    },
+    {
+      "Page": "12",
+      "Item": "60004",
+      "Description": "Beecher's Flagship Cheese Sticks (Extra Sharp)",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "782045100043"
+    },
+    {
+      "Page": "12",
+      "Item": "60005",
+      "Description": "Beecher's Marco Polo Cheese Sticks",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "782045100654"
+    },
+    {
+      "Page": "13",
+      "Item": "61992",
+      "Description": "Van Holten Warheads Sour",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "038200000320"
+    },
+    {
+      "Page": "13",
+      "Item": "61996",
+      "Description": "Van Holten Dill Pickle",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "038200000063"
+    },
+    {
+      "Page": "13",
+      "Item": "61997",
+      "Description": "Van Holten Kosher Pickle",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "038200000070"
+    },
+    {
+      "Page": "13",
+      "Item": "61999",
+      "Description": "Van Holten Hot Pickle",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "038200000094"
+    },
+    {
+      "Page": "14",
+      "Item": "61925",
+      "Description": "Oh Snap! Sassy Bites 3.25 oz",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "074329123252"
+    },
+    {
+      "Page": "14",
+      "Item": "61936",
+      "Description": "Oh Snap! Gone Dilly Whole Pickle 3 oz",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "074329123368"
+    },
+    {
+      "Page": "14",
+      "Item": "61937",
+      "Description": "Oh Snap! Hottie Whole Pickle 3 oz",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "074329123375"
+    },
+    {
+      "Page": "14",
+      "Item": "61938",
+      "Description": "Oh Snap! Dilly Bites 3.25 oz",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "074329123382"
+    },
+    {
+      "Page": "15",
+      "Item": "22180",
+      "Description": "Hillshire Snacking Wine Infused Salame 2.76 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "044500064803"
+    },
+    {
+      "Page": "15",
+      "Item": "22181",
+      "Description": "Hillshire Snacking Genoa Salame 2.76 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "044500201819"
+    },
+    {
+      "Page": "15",
+      "Item": "22182",
+      "Description": "Hillshire Snacking Italian Salame 2.76 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "044500201826"
+    },
+    {
+      "Page": "16",
+      "Item": "84001",
+      "Description": "Ne-Mo's Carrot Cake",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "076064002045"
+    },
+    {
+      "Page": "16",
+      "Item": "84002",
+      "Description": "Ne-Mo's Banana Cake",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "076064003042"
+    },
+    {
+      "Page": "16",
+      "Item": "84003",
+      "Description": "Ne-Mo's Chocolate Cake",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "076064001048"
+    },
+    {
+      "Page": "16",
+      "Item": "84004",
+      "Description": "Ne-Mo's Strawberry Cake",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "076064050862"
+    },
+    {
+      "Page": "18",
+      "Item": "53414",
+      "Description": "THE BOMB Beef, Bean, Cheese, & Red Chile 12 oz",
+      "CaseCount": "12",
+      "Retail": "$4.79",
+      "UPC": "027086189146"
+    },
+    {
+      "Page": "18",
+      "Item": "53415",
+      "Description": "THE BOMB Beef, Bean, Cheese, & Green Chile 12 oz",
+      "CaseCount": "12",
+      "Retail": "$4.79",
+      "UPC": "027086189153"
+    },
+    {
+      "Page": "18",
+      "Item": "53416",
+      "Description": "THE BOMB Spicy Red Hot \u00bc lb/12 oz",
+      "CaseCount": "12",
+      "Retail": "$4.79",
+      "UPC": "027086189160"
+    },
+    {
+      "Page": "18",
+      "Item": "53431",
+      "Description": "DM Bacon & Egg Burrito 7 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "027086184318"
+    },
+    {
+      "Page": "18",
+      "Item": "53432",
+      "Description": "DM Sausage & Egg Burrito 7 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "027086184325"
+    },
+    {
+      "Page": "18",
+      "Item": "53450",
+      "Description": "DM Whole 9 Yards Burrito 7 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "027086184509"
+    },
+    {
+      "Page": "18",
+      "Item": "53575",
+      "Description": "DM Triple Play Burrito 7 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "027086285756"
+    },
+    {
+      "Page": "18",
+      "Item": "53812",
+      "Description": "DM Taquitos Spicy Beef Bulk 4 oz",
+      "CaseCount": "24",
+      "Retail": "$2.19",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "53879",
+      "Description": "DM Taquitos Ckicken & Cheese Bulk 4 oz",
+      "CaseCount": "24",
+      "Retail": "$2.19",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "53882",
+      "Description": "DM Taquitos Egg & Sausage Bulk 4 oz",
+      "CaseCount": "24",
+      "Retail": "$2.19",
+      "UPC": ""
+    },
+    {
+      "Page": "19",
+      "Item": "53017",
+      "Description": "XXL Bean & Cheese Burrito 9.5 oz",
+      "CaseCount": "12",
+      "Retail": "$2.59",
+      "UPC": "071007062179"
+    },
+    {
+      "Page": "19",
+      "Item": "53060",
+      "Description": "XXL Beef, Bean & Grn Chili Burrito 9.5 oz",
+      "CaseCount": "12",
+      "Retail": "$2.59",
+      "UPC": "071007024603"
+    },
+    {
+      "Page": "19",
+      "Item": "53069",
+      "Description": "XXL Spicy Red Hot Burrito 9.5 oz",
+      "CaseCount": "12",
+      "Retail": "$2.59",
+      "UPC": "071007031694"
+    },
+    {
+      "Page": "19",
+      "Item": "53082",
+      "Description": "XXL Beef & Bean Burrito 9.5 oz",
+      "CaseCount": "12",
+      "Retail": "$2.59",
+      "UPC": "071007015823"
+    },
+    {
+      "Page": "20",
+      "Item": "53016",
+      "Description": "Tornado Cheese & Pepperoni 3oz.",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "071007864162"
+    },
+    {
+      "Page": "20",
+      "Item": "53037",
+      "Description": "Tornado Southwest Chicken 3oz.",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "071007867378"
+    },
+    {
+      "Page": "20",
+      "Item": "53044",
+      "Description": "Tornado Cheesy Pepper Jack 3oz.",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "071007860447"
+    },
+    {
+      "Page": "20",
+      "Item": "53090",
+      "Description": "Tornado Ranchero Beef & Cheese 3oz.",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "071007863905"
+    },
+    {
+      "Page": "20",
+      "Item": "53144",
+      "Description": "Tornado Egg Bacon & Salsa 3oz.",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "071007861444"
+    },
+    {
+      "Page": "20",
+      "Item": "53159",
+      "Description": "Tornado Egg Sausage & Cheese 3oz.",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "071007868597"
+    },
+    {
+      "Page": "20",
+      "Item": "53168",
+      "Description": "Tornado French Toast 3oz.",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "07100786287"
+    },
+    {
+      "Page": "21",
+      "Item": "53089",
+      "Description": "Kimbap Vegetable",
+      "CaseCount": "24",
+      "Retail": "$4.99",
+      "UPC": "8809881951089"
+    },
+    {
+      "Page": "21",
+      "Item": "53096",
+      "Description": "Kimbap Bulgogi",
+      "CaseCount": "24",
+      "Retail": "$4.99",
+      "UPC": "8809981951096"
+    },
+    {
+      "Page": "22",
+      "Item": "50232",
+      "Description": "JD Canadian Bacon Egg Cheese Muffin",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "077900513329"
+    },
+    {
+      "Page": "22",
+      "Item": "50233",
+      "Description": "JD Sausage Egg Cheese Muffin",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "077900513336"
+    },
+    {
+      "Page": "22",
+      "Item": "50256",
+      "Description": "JD Sausage Egg Pancake",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "077900118562"
+    },
+    {
+      "Page": "22",
+      "Item": "50259",
+      "Description": "JD Sausage Egg Cheese Croisaant",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "077900118593"
+    },
+    {
+      "Page": "22",
+      "Item": "50268",
+      "Description": "JD Ham Egg Cheese Muffin",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "077900513685"
+    },
+    {
+      "Page": "22",
+      "Item": "50272",
+      "Description": "JD Sausage Egg Cheese Bagel",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "077900513725"
+    },
+    {
+      "Page": "22",
+      "Item": "50274",
+      "Description": "JD Sausage Egg Cheese Biscuit",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "077900513749"
+    },
+    {
+      "Page": "23",
+      "Item": "50012",
+      "Description": "Raybern's Roast Beef & Cheddar Melt",
+      "CaseCount": "8",
+      "Retail": "$3.99",
+      "UPC": "766626200117"
+    },
+    {
+      "Page": "23",
+      "Item": "50069",
+      "Description": "Raybern's Chicken Bacon Ranch Sandwich",
+      "CaseCount": "8",
+      "Retail": "$3.99",
+      "UPC": "766626200131"
+    },
+    {
+      "Page": "23",
+      "Item": "50071",
+      "Description": "Raybern's Philly Cheesesteak Sandwich",
+      "CaseCount": "8",
+      "Retail": "$3.99",
+      "UPC": "766626200186"
+    },
+    {
+      "Page": "23",
+      "Item": "50087",
+      "Description": "Raybern's BBQ Pulled Pork Sandwich",
+      "CaseCount": "8",
+      "Retail": "$3.99",
+      "UPC": "766626200155"
+    },
+    {
+      "Page": "24",
+      "Item": "50700",
+      "Description": "Big Az Country Fried Chicken w/Cheese",
+      "CaseCount": "8",
+      "Retail": "$4.69",
+      "UPC": "071421110005"
+    },
+    {
+      "Page": "24",
+      "Item": "50715",
+      "Description": "Big Az Bacon Addict Burger 9.35",
+      "CaseCount": "10",
+      "Retail": "$4.69",
+      "UPC": "071421943153"
+    },
+    {
+      "Page": "24",
+      "Item": "50731",
+      "Description": "Big Az Kickin' Jalapeno w/Cheese 9.7",
+      "CaseCount": "10",
+      "Retail": "$4.69",
+      "UPC": "071421963151"
+    },
+    {
+      "Page": "24",
+      "Item": "50775",
+      "Description": "Big Az Angus Cheddar 8.7oz.",
+      "CaseCount": "8",
+      "Retail": "$4.69",
+      "UPC": "071421014754"
+    },
+    {
+      "Page": "24",
+      "Item": "50784",
+      "Description": "Big Az Beef Charbroil w/Cheese 8.9",
+      "CaseCount": "10",
+      "Retail": "$4.69",
+      "UPC": "071421579840"
+    },
+    {
+      "Page": "25",
+      "Item": "56702",
+      "Description": "Hot Pockets Ham & Cheese 8 oz",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "043695097023"
+    },
+    {
+      "Page": "25",
+      "Item": "56703",
+      "Description": "Hot Pockets Pepperoni Pizza 8 oz",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "043695097030"
+    },
+    {
+      "Page": "25",
+      "Item": "56734",
+      "Description": "Hot Pockets Philly Cheesesteak 8 oz",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "043695097344"
+    },
+    {
+      "Page": "26",
+      "Item": "87995",
+      "Description": "Fla-Vor-Ice 5.5 oz, 45 Ct Box",
+      "CaseCount": "45",
+      "Retail": "$0.99",
+      "UPC": "072392998456"
+    },
+    {
+      "Page": "35",
+      "Item": "84106",
+      "Description": "Apple Turnover Danish 5 oz",
+      "CaseCount": "24",
+      "Retail": "$2.79",
+      "UPC": "035751111064"
+    },
+    {
+      "Page": "35",
+      "Item": "84107",
+      "Description": "Bear Claw 5 oz",
+      "CaseCount": "24",
+      "Retail": "$2.79",
+      "UPC": "035751111071"
+    },
+    {
+      "Page": "35",
+      "Item": "84109",
+      "Description": "Cheese N Berries Danish 5 oz",
+      "CaseCount": "24",
+      "Retail": "$2.79",
+      "UPC": "035751111095"
+    },
+    {
+      "Page": "35",
+      "Item": "84111",
+      "Description": "Caramel Chocolatier 5 oz NEW",
+      "CaseCount": "24",
+      "Retail": "$2.79",
+      "UPC": "035751112115"
+    },
+    {
+      "Page": "35",
+      "Item": "84113",
+      "Description": "Cheese Croissant 5 oz",
+      "CaseCount": "24",
+      "Retail": "$2.79",
+      "UPC": "035751111132"
+    },
+    {
+      "Page": "35",
+      "Item": "84114",
+      "Description": "Blueberry Danish 5 oz",
+      "CaseCount": "24",
+      "Retail": "$2.79",
+      "UPC": "035751111149"
+    },
+    {
+      "Page": "35",
+      "Item": "84115",
+      "Description": "Caramel Cr\u00e8me Danish 5 oz NEW",
+      "CaseCount": "24",
+      "Retail": "$2.79",
+      "UPC": "035751111156"
+    },
+    {
+      "Page": "35",
+      "Item": "84117",
+      "Description": "White Concha 5 oz",
+      "CaseCount": "20",
+      "Retail": "$2.79",
+      "UPC": "035751117004"
+    },
+    {
+      "Page": "35",
+      "Item": "84206",
+      "Description": "Lemon Cheese Danish 4.6 oz",
+      "CaseCount": "30",
+      "Retail": "$2.79",
+      "UPC": "035751112061"
+    },
+    {
+      "Page": "35",
+      "Item": "84208",
+      "Description": "Strawberries N Cr\u00e8me Danish 4.6 oz",
+      "CaseCount": "30",
+      "Retail": "$2.79",
+      "UPC": "035751112085"
+    },
+    {
+      "Page": "35",
+      "Item": "84310",
+      "Description": "Blueberry Muffin 5 oz",
+      "CaseCount": "30",
+      "Retail": "$2.79",
+      "UPC": "035751113105"
+    },
+    {
+      "Page": "35",
+      "Item": "84312",
+      "Description": "Chocolate Chocolate Muffin 5 oz",
+      "CaseCount": "30",
+      "Retail": "$2.79",
+      "UPC": "035751113129"
+    },
+    {
+      "Page": "35",
+      "Item": "84314",
+      "Description": "Banana Nut Muffin 5 oz",
+      "CaseCount": "30",
+      "Retail": "$2.79",
+      "UPC": "035751113129"
+    },
+    {
+      "Page": "35",
+      "Item": "84316",
+      "Description": "Strawberry Cheese Muffin 5 oz",
+      "CaseCount": "30",
+      "Retail": "$2.79",
+      "UPC": "035751113167"
+    },
+    {
+      "Page": "35",
+      "Item": "84425",
+      "Description": "Banana Bread Cake 4 oz",
+      "CaseCount": "48",
+      "Retail": "$2.79",
+      "UPC": "035751114256"
+    },
+    {
+      "Page": "35",
+      "Item": "84427",
+      "Description": "Cheese Cake 4 oz",
+      "CaseCount": "48",
+      "Retail": "$2.79",
+      "UPC": "035751114270"
+    },
+    {
+      "Page": "35",
+      "Item": "84428",
+      "Description": "Lemon Cake 4 oz",
+      "CaseCount": "48",
+      "Retail": "$2.79",
+      "UPC": "035751114287"
+    },
+    {
+      "Page": "35",
+      "Item": "84429",
+      "Description": "Marble Cake 4 oz",
+      "CaseCount": "48",
+      "Retail": "$2.79",
+      "UPC": "035751114294"
+    },
+    {
+      "Page": "35",
+      "Item": "84430",
+      "Description": "Cheese Coffee Cake 4 oz",
+      "CaseCount": "36",
+      "Retail": "$2.79",
+      "UPC": "035751114300"
+    },
+    {
+      "Page": "35",
+      "Item": "84453",
+      "Description": "Strawberry Cheese Cake 4 oz",
+      "CaseCount": "48",
+      "Retail": "$2.79",
+      "UPC": "035751114539"
+    },
+    {
+      "Page": "35",
+      "Item": "84709",
+      "Description": "Semitas Sweet Roll 5 oz",
+      "CaseCount": "20",
+      "Retail": "$2.79",
+      "UPC": "035751117097"
+    },
+    {
+      "Page": "35",
+      "Item": "84720",
+      "Description": "Pan de Queso 4 oz",
+      "CaseCount": "36",
+      "Retail": "$2.79",
+      "UPC": "035751117202"
+    },
+    {
+      "Page": "35",
+      "Item": "84723",
+      "Description": "Picon California Sweet Roll 5 oz",
+      "CaseCount": "20",
+      "Retail": "$2.79",
+      "UPC": "035751117233"
+    },
+    {
+      "Page": "35",
+      "Item": "84729",
+      "Description": "Grande Mantecada 4 oz NEW",
+      "CaseCount": "36",
+      "Retail": "$2.79",
+      "UPC": "035751117295"
+    },
+    {
+      "Page": "35",
+      "Item": "84732",
+      "Description": "Strawberry Concha 5 oz NEW",
+      "CaseCount": "20",
+      "Retail": "$2.79",
+      "UPC": "035751117325"
+    },
+    {
+      "Page": "35",
+      "Item": "84828",
+      "Description": "Crumb Donuts 6-Pk",
+      "CaseCount": "28",
+      "Retail": "$2.79",
+      "UPC": "035751118285"
+    },
+    {
+      "Page": "35",
+      "Item": "84830",
+      "Description": "Chocolate Donuts 6-Pk",
+      "CaseCount": "28",
+      "Retail": "$2.79",
+      "UPC": "035751118308"
+    },
+    {
+      "Page": "35",
+      "Item": "84831",
+      "Description": "Dulce de Leche Donuts 6-Pk",
+      "CaseCount": "28",
+      "Retail": "$2.79",
+      "UPC": "035751118315"
+    },
+    {
+      "Page": "35",
+      "Item": "84834",
+      "Description": "Strawberry Cheese Donuts 6-Pk",
+      "CaseCount": "28",
+      "Retail": "$2.79",
+      "UPC": "035751118346"
+    },
+    {
+      "Page": "35",
+      "Item": "84836",
+      "Description": "Blueberry Cheese Donuts 6-Pk",
+      "CaseCount": "28",
+      "Retail": "$2.79",
+      "UPC": "035751118360"
+    },
+    {
+      "Page": "36",
+      "Item": "84901",
+      "Description": "JJ's Apple Pie 4oz.",
+      "CaseCount": "12",
+      "Retail": "$1.49",
+      "UPC": "011284003014"
+    },
+    {
+      "Page": "36",
+      "Item": "84902",
+      "Description": "JJ's Cherry Pie 4oz.",
+      "CaseCount": "12",
+      "Retail": "$1.49",
+      "UPC": "011284003021"
+    },
+    {
+      "Page": "36",
+      "Item": "84903",
+      "Description": "JJ's Blackberry Pie 4oz.",
+      "CaseCount": "12",
+      "Retail": "$1.49",
+      "UPC": "011284003038"
+    },
+    {
+      "Page": "36",
+      "Item": "84906",
+      "Description": "JJ's Chocolate Pie 4oz.",
+      "CaseCount": "12",
+      "Retail": "$1.49",
+      "UPC": "011284003069"
+    },
+    {
+      "Page": "36",
+      "Item": "84915",
+      "Description": "JJ's Boston Crm Pie 4oz.",
+      "CaseCount": "12",
+      "Retail": "$1.49",
+      "UPC": "011284003151"
+    },
+    {
+      "Page": "36",
+      "Item": "84916",
+      "Description": "JJ's Straw. Crm Pie 4oz.",
+      "CaseCount": "12",
+      "Retail": "$1.49",
+      "UPC": "011284003168"
+    },
+    {
+      "Page": "36",
+      "Item": "84929",
+      "Description": "JJ's Banana Pie 4oz.",
+      "CaseCount": "12",
+      "Retail": "$1.49",
+      "UPC": "011284003298"
+    },
+    {
+      "Page": "37",
+      "Item": "84930",
+      "Description": "CB Chc.Chunk Cookie 4oz.",
+      "CaseCount": "8",
+      "Retail": "$1.99",
+      "UPC": "0857208007634"
+    },
+    {
+      "Page": "37",
+      "Item": "84931",
+      "Description": "CB Snickerdoodle Cookie 4oz.",
+      "CaseCount": "8",
+      "Retail": "$1.99",
+      "UPC": "0857208007658"
+    },
+    {
+      "Page": "37",
+      "Item": "84935",
+      "Description": "CB Peanut Butter Cookie 4oz.",
+      "CaseCount": "8",
+      "Retail": "$1.99",
+      "UPC": "0857208007641"
+    },
+    {
+      "Page": "38",
+      "Item": "84020",
+      "Description": "Iced Lemon Pound Cake 4 oz",
+      "CaseCount": "10",
+      "Retail": "$2.99",
+      "UPC": "797884212185"
+    },
+    {
+      "Page": "38",
+      "Item": "84021",
+      "Description": "Chocolate Iced Pound Cake 4 oz",
+      "CaseCount": "10",
+      "Retail": "$2.99",
+      "UPC": "797884213182"
+    },
+    {
+      "Page": "38",
+      "Item": "84022",
+      "Description": "Banana Chocolate Chip Pound Cake 4 oz",
+      "CaseCount": "10",
+      "Retail": "$2.99",
+      "UPC": "797884214189"
+    },
+    {
+      "Page": "39",
+      "Item": "83025",
+      "Description": "Jonny Almond Praline Pecans 4 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "818224011258"
+    },
+    {
+      "Page": "39",
+      "Item": "83027",
+      "Description": "Jonny Almond Cinnamon Almonds 4 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "818224010275"
+    },
+    {
+      "Page": "39",
+      "Item": "83028",
+      "Description": "Jonny Almond Honeysalt Cashews 4 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "818224010282"
+    },
+    {
+      "Page": "39",
+      "Item": "95075",
+      "Description": "Warmer Unit",
+      "CaseCount": "1",
+      "Retail": "--",
+      "UPC": "--"
+    },
+    {
+      "Page": "43",
+      "Item": "82400",
+      "Description": "Sweet & Hot Crunch Mix",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "709972801003"
+    },
+    {
+      "Page": "43",
+      "Item": "92401",
+      "Description": "Sportsman's Mix",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "709972800013"
+    },
+    {
+      "Page": "43",
+      "Item": "82405",
+      "Description": "Rancher's Mix",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "709972800051"
+    },
+    {
+      "Page": "43",
+      "Item": "82408",
+      "Description": "Fruit Slices",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "709972801089"
+    },
+    {
+      "Page": "43",
+      "Item": "82409",
+      "Description": "Orange Slices",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "709972801096"
+    },
+    {
+      "Page": "43",
+      "Item": "82411",
+      "Description": "Hot & Spicy Peanuts",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "709972800112"
+    },
+    {
+      "Page": "43",
+      "Item": "82412",
+      "Description": "Roasted & Salted Peanuts",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "709972800129"
+    },
+    {
+      "Page": "43",
+      "Item": "82413",
+      "Description": "Sunflower Kernels",
+      "CaseCount": "6",
+      "Retail": "$2.99",
+      "UPC": "709972800136"
+    },
+    {
+      "Page": "46",
+      "Item": "82704",
+      "Description": "Tajin Mango Rings 5 oz",
+      "CaseCount": "6",
+      "Retail": "$3.99",
+      "UPC": "087076219048"
+    },
+    {
+      "Page": "46",
+      "Item": "82705",
+      "Description": "Tajin Gummy Bears 4 oz",
+      "CaseCount": "6",
+      "Retail": "$3.99",
+      "UPC": "087076219062"
+    },
+    {
+      "Page": "46",
+      "Item": "82707",
+      "Description": "Hidden Valley Ranch Almonds 2.5 oz",
+      "CaseCount": "6",
+      "Retail": "$3.99",
+      "UPC": "087076217068"
+    },
+    {
+      "Page": "46",
+      "Item": "82710",
+      "Description": "Tajin Watermelon Rings 5 oz",
+      "CaseCount": "6",
+      "Retail": "$3.99",
+      "UPC": "087076216108"
+    },
+    {
+      "Page": "46",
+      "Item": "82740",
+      "Description": "Tajin Peanuts 5 oz",
+      "CaseCount": "6",
+      "Retail": "$3.99",
+      "UPC": "087076216405"
+    },
+    {
+      "Page": "46",
+      "Item": "82747",
+      "Description": "Peach Rings 5 oz",
+      "CaseCount": "6",
+      "Retail": "$3.99",
+      "UPC": "087076216474"
+    },
+    {
+      "Page": "46",
+      "Item": "82806",
+      "Description": "Tajin Gummy Bears 9 oz",
+      "CaseCount": "6",
+      "Retail": "$7.49",
+      "UPC": "087076649067"
+    },
+    {
+      "Page": "46",
+      "Item": "82810",
+      "Description": "Tajin Watermelon Rings 11 oz",
+      "CaseCount": "6",
+      "Retail": "$7.49",
+      "UPC": "087076646103"
+    },
+    {
+      "Page": "46",
+      "Item": "82811",
+      "Description": "Tajin Apple Rings 11 oz",
+      "CaseCount": "6",
+      "Retail": "$7.49",
+      "UPC": "087076656119"
+    },
+    {
+      "Page": "46",
+      "Item": "82819",
+      "Description": "Tajin Pineapple Rings 11 oz",
+      "CaseCount": "6",
+      "Retail": "$7.49",
+      "UPC": "087076649197"
+    },
+    {
+      "Page": "46",
+      "Item": "82830",
+      "Description": "Hot Ones Honey Roasted Peanuts 14 oz",
+      "CaseCount": "6",
+      "Retail": "$7.49",
+      "UPC": "087076619305"
+    },
+    {
+      "Page": "46",
+      "Item": "82831",
+      "Description": "Hot Ones Honey Roasted Cashews 6 oz",
+      "CaseCount": "6",
+      "Retail": "$7.49",
+      "UPC": "087076619312"
+    },
+    {
+      "Page": "46",
+      "Item": "82860",
+      "Description": "Energizer Trail Mix 16 oz",
+      "CaseCount": "6",
+      "Retail": "$7.49",
+      "UPC": "087076644604"
+    },
+    {
+      "Page": "46",
+      "Item": "82920",
+      "Description": "Tajin Peanuts & Corn Clusters 4 oz",
+      "CaseCount": "6",
+      "Retail": "$7.49",
+      "UPC": "087076599201"
+    },
+    {
+      "Page": "46",
+      "Item": "82922",
+      "Description": "Tajin Chocolate Gummy Bears 4 oz",
+      "CaseCount": "6",
+      "Retail": "$7.49",
+      "UPC": "087076599225"
+    },
+    {
+      "Page": "49",
+      "Item": "87940",
+      "Description": "Feritio Angel Hair 5.29oz.",
+      "CaseCount": "12",
+      "Retail": "$15.99",
+      "UPC": "850076282004"
+    },
+    {
+      "Page": "49",
+      "Item": "87945",
+      "Description": "Feritio Freeze Dried Strawberry 2.2oz.",
+      "CaseCount": "21",
+      "Retail": "$6.99",
+      "UPC": "850076282257"
+    },
+    {
+      "Page": "49",
+      "Item": "87946",
+      "Description": "Feritio Matcha Cheesecake 2.47oz.",
+      "CaseCount": "21",
+      "Retail": "$6.99",
+      "UPC": "850076282264"
+    },
+    {
+      "Page": "49",
+      "Item": "87950",
+      "Description": "Feritio Dubai Chocolate 2.82oz.",
+      "CaseCount": "9",
+      "Retail": "$9.99",
+      "UPC": "895296001134"
+    },
+    {
+      "Page": "49",
+      "Item": "87953",
+      "Description": "Feritio Dubai Chocolate 200g",
+      "CaseCount": "6",
+      "Retail": "$17.99",
+      "UPC": "85003560274"
+    },
+    {
+      "Page": "50",
+      "Item": "87571",
+      "Description": "Frost Bites Peach Rings",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "684514314916"
+    },
+    {
+      "Page": "50",
+      "Item": "87572",
+      "Description": "Frost Bites Watermelon Rings",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "684514314923"
+    },
+    {
+      "Page": "50",
+      "Item": "87573",
+      "Description": "Frost Bites Chamoy Watermelon Rings",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "684514314930"
+    },
+    {
+      "Page": "50",
+      "Item": "87574",
+      "Description": "Frost Bites Sour Worms",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "684514314947"
+    },
+    {
+      "Page": "50",
+      "Item": "87575",
+      "Description": "Frost Bites Shark Bites",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "684514315357"
+    },
+    {
+      "Page": "50",
+      "Item": "87576",
+      "Description": "Frost Bites Ice Cream Neapolitan",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "684514314985"
+    },
+    {
+      "Page": "50",
+      "Item": "87577",
+      "Description": "Frost Bites Ice Cream Vanilla",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "684514314992"
+    },
+    {
+      "Page": "50",
+      "Item": "87578",
+      "Description": "Frost Bites Ice Cream Straw. Cheesecake",
+      "CaseCount": "24",
+      "Retail": "$6.99",
+      "UPC": "684514315104"
+    },
+    {
+      "Page": "51",
+      "Item": "87543",
+      "Description": "Sour Straws Pineapple Splash",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "840124111431"
+    },
+    {
+      "Page": "51",
+      "Item": "87544",
+      "Description": "Sour Straws Blueberry Bliss",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "840124111448"
+    },
+    {
+      "Page": "51",
+      "Item": "87545",
+      "Description": "Sour Straws Wild Strawberry",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "840124111455"
+    },
+    {
+      "Page": "51",
+      "Item": "87546",
+      "Description": "Sour Straws Sour Apple",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "840124111424"
+    },
+    {
+      "Page": "51",
+      "Item": "87565",
+      "Description": "Sour Bands Strawberry Smash",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "840124111653"
+    },
+    {
+      "Page": "51",
+      "Item": "87566",
+      "Description": "Sour Bands Very Berry Blue",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "840124111660"
+    },
+    {
+      "Page": "51",
+      "Item": "87567",
+      "Description": "Sour Bands Wicked Watermelon",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "840124111677"
+    },
+    {
+      "Page": "51",
+      "Item": "87568",
+      "Description": "Sour Bands Rainbow Punch",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "840124111684"
+    },
+    {
+      "Page": "51",
+      "Item": "87553",
+      "Description": "Sour Chewz Rack 96 ct",
+      "CaseCount": "",
+      "Retail": "",
+      "UPC": ""
+    },
+    {
+      "Page": "52",
+      "Item": "87301",
+      "Description": "12 Super Tube in a box",
+      "CaseCount": "24",
+      "Retail": "$2.99",
+      "UPC": "831955004399"
+    },
+    {
+      "Page": "52",
+      "Item": "87300",
+      "Description": "60 PP Mega Tube (please reuse)",
+      "CaseCount": "25",
+      "Retail": "$6.99",
+      "UPC": "831955003958"
+    },
+    {
+      "Page": "52",
+      "Item": "87302",
+      "Description": "60 Itty Bits Mega Tube (please reuse)",
+      "CaseCount": "25",
+      "Retail": "$6.99",
+      "UPC": "831955004917"
+    },
+    {
+      "Page": "53",
+      "Item": "80015",
+      "Description": "Spitz Smoky BBQ 6 oz",
+      "CaseCount": "9",
+      "Retail": "$2.99",
+      "UPC": "028400094054"
+    },
+    {
+      "Page": "53",
+      "Item": "80016",
+      "Description": "Spitz Original 6 oz",
+      "CaseCount": "9",
+      "Retail": "$2.99",
+      "UPC": "028400094061"
+    },
+    {
+      "Page": "53",
+      "Item": "80018",
+      "Description": "Spitz Dill 6 oz",
+      "CaseCount": "9",
+      "Retail": "$2.99",
+      "UPC": "028400094092"
+    },
+    {
+      "Page": "53",
+      "Item": "80019",
+      "Description": "Spitz Cracked Pepper 6 oz",
+      "CaseCount": "9",
+      "Retail": "$2.99",
+      "UPC": "028400096720"
+    },
+    {
+      "Page": "53",
+      "Item": "80039",
+      "Description": "Bigs Vlasic Dill Pickle 5.35 oz",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "896887002202"
+    },
+    {
+      "Page": "53",
+      "Item": "80040",
+      "Description": "Bigs Takis Seeds 5.35 oz",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "816012010216"
+    },
+    {
+      "Page": "53",
+      "Item": "80041",
+      "Description": "Bigs Sizzlin' Bacon Seeds 5.35 oz",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "896887002219"
+    },
+    {
+      "Page": "53",
+      "Item": "80043",
+      "Description": "Bigs Hidden Valley Ranch 5.35 oz",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "896887002233"
+    },
+    {
+      "Page": "53",
+      "Item": "80048",
+      "Description": "Bigs Taco Bell Fire 5.35 oz NEW!",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "816012013873"
+    },
+    {
+      "Page": "53",
+      "Item": "80062",
+      "Description": "Bigs Roasted Pumpkin Seeds 5 oz",
+      "CaseCount": "12",
+      "Retail": "$4.79",
+      "UPC": "816012011121"
+    },
+    {
+      "Page": "53",
+      "Item": "80911",
+      "Description": "Corn Nuts Ranch 4 oz",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "071159073115"
+    },
+    {
+      "Page": "53",
+      "Item": "80919",
+      "Description": "Corn Nuts Original 4 oz",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "071159078196"
+    },
+    {
+      "Page": "53",
+      "Item": "80924",
+      "Description": "Corn Nuts BBQ 4 oz",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "071159078240"
+    },
+    {
+      "Page": "53",
+      "Item": "80923",
+      "Description": "Corn Nuts Mexican Street Corn 4 oz",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "071159289912"
+    },
+    {
+      "Page": "53",
+      "Item": "80925",
+      "Description": "Corn Nuts Loaded Taco 4 oz",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "071159345250"
+    },
+    {
+      "Page": "53",
+      "Item": "81133",
+      "Description": "David Jumbo Reduced Sodium 5.25 oz",
+      "CaseCount": "12",
+      "Retail": "$2.69",
+      "UPC": "026200461359"
+    },
+    {
+      "Page": "53",
+      "Item": "81170",
+      "Description": "David Original Sunflower Seeds 5.25 oz",
+      "CaseCount": "12",
+      "Retail": "$2.69",
+      "UPC": "026200461724"
+    },
+    {
+      "Page": "53",
+      "Item": "81186",
+      "Description": "David Jumbo Original Seeds 5.25 oz",
+      "CaseCount": "12",
+      "Retail": "$2.69",
+      "UPC": "026200238920"
+    },
+    {
+      "Page": "53",
+      "Item": "81378",
+      "Description": "David Large Pumpkin Seeds 5 oz",
+      "CaseCount": "12",
+      "Retail": "$4.79",
+      "UPC": "026200463780"
+    },
+    {
+      "Page": "53",
+      "Item": "81388",
+      "Description": "David Jumbo Cracked Pepper 5.25 oz",
+      "CaseCount": "12",
+      "Retail": "$2.69",
+      "UPC": "026200238913"
+    },
+    {
+      "Page": "53",
+      "Item": "81570",
+      "Description": "David Jumbo BBQ Seeds 5.25 oz",
+      "CaseCount": "12",
+      "Retail": "$2.69",
+      "UPC": "026200465722"
+    },
+    {
+      "Page": "53",
+      "Item": "81764",
+      "Description": "David Jumbo Honey Roasted Seeds 5.25 oz NEW!",
+      "CaseCount": "12",
+      "Retail": "$2.69",
+      "UPC": "026200007649"
+    },
+    {
+      "Page": "53",
+      "Item": "81770",
+      "Description": "David Jumbo Ranch Seeds 5.25 oz",
+      "CaseCount": "12",
+      "Retail": "$2.69",
+      "UPC": "026200467726"
+    },
+    {
+      "Page": "55",
+      "Item": "83033",
+      "Description": "Taco Works Original 1 lb",
+      "CaseCount": "10",
+      "Retail": "$4.99",
+      "UPC": "049451000030"
+    },
+    {
+      "Page": "56",
+      "Item": "83418",
+      "Description": "Simply Stellar 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004182"
+    },
+    {
+      "Page": "56",
+      "Item": "83419",
+      "Description": "Bold & Herby 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004199"
+    },
+    {
+      "Page": "56",
+      "Item": "83421",
+      "Description": "Maui Monk 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004212"
+    },
+    {
+      "Page": "56",
+      "Item": "83423",
+      "Description": "French Dijon 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004236"
+    },
+    {
+      "Page": "56",
+      "Item": "83428",
+      "Description": "Thins Sea Salt 7.2 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004281"
+    },
+    {
+      "Page": "56",
+      "Item": "83429",
+      "Description": "Thins Truffle Pesto 7.2 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004298"
+    },
+    {
+      "Page": "56",
+      "Item": "83430",
+      "Description": "Thins Bruschetta 7.2 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004304"
+    },
+    {
+      "Page": "57",
+      "Item": "83418",
+      "Description": "Simply Stellar 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004182"
+    },
+    {
+      "Page": "57",
+      "Item": "83419",
+      "Description": "Bold & Herby 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004199"
+    },
+    {
+      "Page": "57",
+      "Item": "83420",
+      "Description": "Sweet & Sparky 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004205"
+    },
+    {
+      "Page": "57",
+      "Item": "83421",
+      "Description": "Maui Monk 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004212"
+    },
+    {
+      "Page": "57",
+      "Item": "83423",
+      "Description": "French Dijon 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004236"
+    },
+    {
+      "Page": "57",
+      "Item": "83433",
+      "Description": "Cinnamon Dolce 12 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004335"
+    },
+    {
+      "Page": "57",
+      "Item": "83428",
+      "Description": "Thins Sea Salt 7.2 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004281"
+    },
+    {
+      "Page": "57",
+      "Item": "83429",
+      "Description": "Thins Truffle Pesto 7.2 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004298"
+    },
+    {
+      "Page": "57",
+      "Item": "83430",
+      "Description": "Thins Bruschetta 7.2 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "760295004304"
+    },
+    {
+      "Page": "58",
+      "Item": "83706",
+      "Description": "Roasted Habanero Sauce 8 oz",
+      "CaseCount": "6",
+      "Retail": "$7.99",
+      "UPC": "757347489660"
+    },
+    {
+      "Page": "58",
+      "Item": "83709",
+      "Description": "Cilantro Serrano Sauce 8 oz",
+      "CaseCount": "6",
+      "Retail": "$7.99",
+      "UPC": "612520310097"
+    },
+    {
+      "Page": "60",
+      "Item": "87700",
+      "Description": "Kidsmania Unicorn Doo",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464316002"
+    },
+    {
+      "Page": "60",
+      "Item": "87701",
+      "Description": "Kidsmania Slot Machine",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464100618"
+    },
+    {
+      "Page": "60",
+      "Item": "87702",
+      "Description": "Kidsmania Peek-A-Boo",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464538008"
+    },
+    {
+      "Page": "60",
+      "Item": "87703",
+      "Description": "Kidsmania Ooze Tube",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464588003"
+    },
+    {
+      "Page": "60",
+      "Item": "87704",
+      "Description": "Kidsmania Kitty Korner",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464637008"
+    },
+    {
+      "Page": "60",
+      "Item": "87705",
+      "Description": "Kidsmania Mad Science",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "192568903005"
+    },
+    {
+      "Page": "60",
+      "Item": "87706",
+      "Description": "Kidsmania Sneaky Stardust",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "192568960008"
+    },
+    {
+      "Page": "60",
+      "Item": "87710",
+      "Description": "Kidsmania Sucker Punch",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646454600"
+    },
+    {
+      "Page": "60",
+      "Item": "87712",
+      "Description": "Kidsmania Sour Flush",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646444700"
+    },
+    {
+      "Page": "6g",
+      "Item": "87745",
+      "Description": "Kidsmania Wacky Monkey",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646457700"
+    },
+    {
+      "Page": "60",
+      "Item": "87746",
+      "Description": "Kidsmania Skool Bus",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646455300"
+    },
+    {
+      "Page": "60",
+      "Item": "87748",
+      "Description": "Kidsmania Shark Bite",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646461500"
+    },
+    {
+      "Page": "60",
+      "Item": "87749",
+      "Description": "Kidsmania Shark Attack",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646461800"
+    },
+    {
+      "Page": "60",
+      "Item": "87750",
+      "Description": "Kidsmania Dino Doo",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646431400"
+    },
+    {
+      "Page": "60",
+      "Item": "87751",
+      "Description": "Kidsmania Galaxy Rocks",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "09256894000"
+    },
+    {
+      "Page": "60",
+      "Item": "87752",
+      "Description": "Kidsmania Gator Chomp",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646482402"
+    },
+    {
+      "Page": "60",
+      "Item": "87753",
+      "Description": "Kidsmania Puppy Love",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646459200"
+    },
+    {
+      "Page": "60",
+      "Item": "87754",
+      "Description": "Kidsmania Pooplets",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646462800"
+    },
+    {
+      "Page": "60",
+      "Item": "87755",
+      "Description": "Kidsmania Bubble Dozer",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464102612"
+    },
+    {
+      "Page": "60",
+      "Item": "87756",
+      "Description": "Kidsmania ICU Cyclops",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464544009"
+    },
+    {
+      "Page": "60",
+      "Item": "87757",
+      "Description": "Kidsmania Sour Ooze",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464688000"
+    },
+    {
+      "Page": "60",
+      "Item": "87775",
+      "Description": "Kidsmania Soda Can",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646448500"
+    },
+    {
+      "Page": "60",
+      "Item": "87781",
+      "Description": "Kidsmania Quick Blast",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646449700"
+    },
+    {
+      "Page": "60",
+      "Item": "87800",
+      "Description": "Kidsmania Laser Pop",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646452800"
+    },
+    {
+      "Page": "60",
+      "Item": "87801",
+      "Description": "Kidsmania Big Dipper",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646456600"
+    },
+    {
+      "Page": "60",
+      "Item": "87877",
+      "Description": "Kidsmania Flash Pop",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464455008"
+    },
+    {
+      "Page": "60",
+      "Item": "87918",
+      "Description": "Kidsmania Flip Phone Pop",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "68646448700"
+    },
+    {
+      "Page": "60",
+      "Item": "87928",
+      "Description": "Kidsmania Sour Blast",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "686464545006"
+    },
+    {
+      "Page": "61",
+      "Item": "87501",
+      "Description": "Raindrops Hamburger 4.59 oz",
+      "CaseCount": "9",
+      "Retail": "$5.99",
+      "UPC": "630855118003"
+    },
+    {
+      "Page": "61",
+      "Item": "87502",
+      "Description": "Raindrops Pizza 3 oz",
+      "CaseCount": "18",
+      "Retail": "$5.99",
+      "UPC": "630855113107"
+    },
+    {
+      "Page": "61",
+      "Item": "87503",
+      "Description": "Raindrops Sushi 3 oz",
+      "CaseCount": "12",
+      "Retail": "$5.99",
+      "UPC": "630855114104"
+    },
+    {
+      "Page": "61",
+      "Item": "87516",
+      "Description": "Raindrops Candy Foam 2.37 oz",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "630855140141"
+    },
+    {
+      "Page": "61",
+      "Item": "87520",
+      "Description": "Raindrops Magic Potion",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "630855140004"
+    },
+    {
+      "Page": "61",
+      "Item": "87521",
+      "Description": "Raindrops Ice Cream Candy .88 oz",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "630855140028"
+    },
+    {
+      "Page": "62",
+      "Item": "87304",
+      "Description": "Slush Puppies Dip-N-Lik",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365123652"
+    },
+    {
+      "Page": "62",
+      "Item": "87305",
+      "Description": "Dippin' Dots Dip-N-Lik",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365627242"
+    },
+    {
+      "Page": "62",
+      "Item": "87306",
+      "Description": "Mr. Squeezy Pop Squeeze-N-Lik",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365626849"
+    },
+    {
+      "Page": "62",
+      "Item": "87309",
+      "Description": "World's Biggest Candy Necklace",
+      "CaseCount": "24",
+      "Retail": "$2.29",
+      "UPC": "632365385005"
+    },
+    {
+      "Page": "62",
+      "Item": "87318",
+      "Description": "Slush Puppies Squeeze Candy",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365122181"
+    },
+    {
+      "Page": "62",
+      "Item": "87323",
+      "Description": "King Cobra Candy",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365626283"
+    },
+    {
+      "Page": "62",
+      "Item": "87335",
+      "Description": "Unicorn Dip-N-Lik",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365627358"
+    },
+    {
+      "Page": "62",
+      "Item": "87340",
+      "Description": "ICEE 3pk Dips 1.41 oz",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365627402"
+    },
+    {
+      "Page": "62",
+      "Item": "87341",
+      "Description": "Splash Potty Dip-N-Lik",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365626405"
+    },
+    {
+      "Page": "62",
+      "Item": "87388",
+      "Description": "Squeezy Paint Pop",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "623265627884"
+    },
+    {
+      "Page": "62",
+      "Item": "87365",
+      "Description": "ICEE Dip-N-Lik",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365625118"
+    },
+    {
+      "Page": "62",
+      "Item": "87366",
+      "Description": "ICEE Giant Gummy",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365626344"
+    },
+    {
+      "Page": "62",
+      "Item": "87367",
+      "Description": "ICEE Sour Squeeze Candy",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365627044"
+    },
+    {
+      "Page": "62",
+      "Item": "87369",
+      "Description": "ICEE Spray Candy",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365122143"
+    },
+    {
+      "Page": "62",
+      "Item": "87390",
+      "Description": "Ice Cream Twist-N-Lik",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365102664"
+    },
+    {
+      "Page": "62",
+      "Item": "87308",
+      "Description": "Dippin Dots Taffy Bites",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365627785"
+    },
+    {
+      "Page": "62",
+      "Item": "87378",
+      "Description": "Dippin' Dots Popping Candy",
+      "CaseCount": "20",
+      "Retail": "$1.29",
+      "UPC": "632365625781"
+    },
+    {
+      "Page": "62",
+      "Item": "87400",
+      "Description": "Glo Popcifier",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365744000"
+    },
+    {
+      "Page": "62",
+      "Item": "87372",
+      "Description": "Candy Hot Pot",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "632365627723"
+    },
+    {
+      "Page": "64",
+      "Item": "87059",
+      "Description": "Slime Licker Double Play",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "850034597409"
+    },
+    {
+      "Page": "64",
+      "Item": "87060",
+      "Description": "Slime Licker Spray",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "850034597423"
+    },
+    {
+      "Page": "64",
+      "Item": "87055",
+      "Description": "Mega Slime Licker 3 oz",
+      "CaseCount": "12",
+      "Retail": "$4.29",
+      "UPC": "898940001696"
+    },
+    {
+      "Page": "64",
+      "Item": "87057",
+      "Description": "Slime Licker 2.0 Black Cherry & Sour Apple 2 oz",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "850034597201"
+    },
+    {
+      "Page": "64",
+      "Item": "87058",
+      "Description": "Slime Licker 2.0 Blue Raspberry & Strawberry 2 oz",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "898940001016"
+    },
+    {
+      "Page": "65",
+      "Item": "87253",
+      "Description": "Blue Ribbon Coconut Bar",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "798051012530"
+    },
+    {
+      "Page": "65",
+      "Item": "87225",
+      "Description": "Charlotte's Country Fudge 1.25 oz Squares (seasonal)",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "798051111256"
+    },
+    {
+      "Page": "65",
+      "Item": "87240",
+      "Description": "Viper Blast Spray",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "798051024402"
+    },
+    {
+      "Page": "65",
+      "Item": "87241",
+      "Description": "Viper Roller Liquid",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "798051601214"
+    },
+    {
+      "Page": "65",
+      "Item": "87243",
+      "Description": "Rose Pops Assorted",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "798051240031"
+    },
+    {
+      "Page": "65",
+      "Item": "87250",
+      "Description": "Paintball Pops Giant Jawbreaker 2.3 oz",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "798051101233"
+    },
+    {
+      "Page": "65",
+      "Item": "87251",
+      "Description": "Dice Pops Assorted",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "798051240017"
+    },
+    {
+      "Page": "65",
+      "Item": "87563",
+      "Description": "Twinkle Heart Pop",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "840124511622"
+    },
+    {
+      "Page": "66",
+      "Item": "87960",
+      "Description": "Marvel Avengers Asstd. Char. Fans",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "609454-65190-7"
+    },
+    {
+      "Page": "66",
+      "Item": "87965",
+      "Description": "Disney Asstd. Character Fans",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "609454-63415-3"
+    },
+    {
+      "Page": "67",
+      "Item": "87220",
+      "Description": "Fluffy Stuff Cotton Candy",
+      "CaseCount": "12",
+      "Retail": "$2.49",
+      "UPC": "014200003259"
+    },
+    {
+      "Page": "67",
+      "Item": "87221",
+      "Description": "Watermelon Cotton Candy",
+      "CaseCount": "12",
+      "Retail": "$2.49",
+      "UPC": "014200243402"
+    },
+    {
+      "Page": "68",
+      "Item": "87930",
+      "Description": "Kinder Applaydu Eggs",
+      "CaseCount": "36",
+      "Retail": "$3.99",
+      "UPC": "54088191"
+    },
+    {
+      "Page": "68",
+      "Item": "87931",
+      "Description": "Kinder Natoons Eggs",
+      "CaseCount": "36",
+      "Retail": "$3.99",
+      "UPC": "40084107"
+    },
+    {
+      "Page": "1",
+      "Item": "87980",
+      "Description": "BUBS Asst.Shipper 5.5oz/32ct",
+      "CaseCount": "32",
+      "Retail": "$4.99",
+      "UPC": "87980"
+    },
+    {
+      "Page": "1",
+      "Item": "87980",
+      "Description": "BUBS Sour Tutti Frutti 5.5oz",
+      "CaseCount": "8",
+      "Retail": "",
+      "UPC": "051756020064"
+    },
+    {
+      "Page": "1",
+      "Item": "87980",
+      "Description": "BUBS Sour Strw. Van. 5.5oz",
+      "CaseCount": "8",
+      "Retail": "",
+      "UPC": "051756021061"
+    },
+    {
+      "Page": "1",
+      "Item": "87980",
+      "Description": "BUBS Banana Toffee 5.5oz",
+      "CaseCount": "8",
+      "Retail": "",
+      "UPC": "051756022068"
+    },
+    {
+      "Page": "1",
+      "Item": "87980",
+      "Description": "BUBS Sour Lemon Rasp 5.5oz",
+      "CaseCount": "8",
+      "Retail": "",
+      "UPC": "051756023065"
+    },
+    {
+      "Page": "2",
+      "Item": "87472",
+      "Description": "Munch Mallows Shipp.72ct",
+      "CaseCount": "72",
+      "Retail": "$6.99",
+      "UPC": "198625008195"
+    },
+    {
+      "Page": "2",
+      "Item": "87472",
+      "Description": "Jumbo Munch Mallows 6oz",
+      "CaseCount": "18",
+      "Retail": "",
+      "UPC": "198625008232"
+    },
+    {
+      "Page": "2",
+      "Item": "87472",
+      "Description": "Tooty Frooty Munch Mallows 7oz",
+      "CaseCount": "18",
+      "Retail": "",
+      "UPC": "198625008256"
+    },
+    {
+      "Page": "2",
+      "Item": "87472",
+      "Description": "MIXED Munch Mallows 7oz",
+      "CaseCount": "18",
+      "Retail": "",
+      "UPC": "198625008270"
+    },
+    {
+      "Page": "2",
+      "Item": "87472",
+      "Description": "Sour Munch Mallows 5oz",
+      "CaseCount": "18",
+      "Retail": "",
+      "UPC": "198625008317"
+    },
+    {
+      "Page": "3",
+      "Item": "87470",
+      "Description": "Candy Salad Floor Shipp.60ct",
+      "CaseCount": "60",
+      "Retail": "$6.99",
+      "UPC": "754814051221"
+    },
+    {
+      "Page": "4",
+      "Item": "87032",
+      "Description": "Hi-Chew Wire Disp.105ct",
+      "CaseCount": "105",
+      "Retail": "$1.99",
+      "UPC": "873983000011"
+    },
+    {
+      "Page": "4",
+      "Item": "87032",
+      "Description": "Hi-Chew Blue Rasp.Box",
+      "CaseCount": "30",
+      "Retail": "",
+      "UPC": "850017589773"
+    },
+    {
+      "Page": "4",
+      "Item": "87032",
+      "Description": "Hi-Chew Straw.Box",
+      "CaseCount": "30",
+      "Retail": "",
+      "UPC": "87398300002"
+    },
+    {
+      "Page": "4",
+      "Item": "87032",
+      "Description": "Hi-Chew Watermelon Bx",
+      "CaseCount": "30",
+      "Retail": "",
+      "UPC": "85168100866"
+    },
+    {
+      "Page": "4",
+      "Item": "87032",
+      "Description": "Hi-Chew Grape Box",
+      "CaseCount": "15",
+      "Retail": "",
+      "UPC": "87398300001"
+    },
+    {
+      "Page": "5",
+      "Item": "87025",
+      "Description": "Hi-Chew Box - Grape",
+      "CaseCount": "15",
+      "Retail": "$1.79",
+      "UPC": "873983000011"
+    },
+    {
+      "Page": "5",
+      "Item": "87026",
+      "Description": "Hi-Chew Box - Strawberry",
+      "CaseCount": "15",
+      "Retail": "$1.79",
+      "UPC": "873983000028"
+    },
+    {
+      "Page": "5",
+      "Item": "87027",
+      "Description": "Hi-Chew Box \u2013 Green Apple",
+      "CaseCount": "15",
+      "Retail": "$1.79",
+      "UPC": "873983000035"
+    },
+    {
+      "Page": "5",
+      "Item": "87028",
+      "Description": "Hi-Chew Box - Mango",
+      "CaseCount": "15",
+      "Retail": "$1.79",
+      "UPC": "873983000059"
+    },
+    {
+      "Page": "5",
+      "Item": "87029",
+      "Description": "Hi-Chew Box \u2013 Blue Raspberry",
+      "CaseCount": "15",
+      "Retail": "$1.79",
+      "UPC": "850017589773"
+    },
+    {
+      "Page": "5",
+      "Item": "87030",
+      "Description": "Hi-Chew Box - Watermelon",
+      "CaseCount": "15",
+      "Retail": "$1.79",
+      "UPC": "851681008669"
+    },
+    {
+      "Page": "5",
+      "Item": "87016",
+      "Description": "Hi-Chew Fantasy Mix",
+      "CaseCount": "6",
+      "Retail": "$3.29",
+      "UPC": "850017589209"
+    },
+    {
+      "Page": "5",
+      "Item": "87017",
+      "Description": "Hi-Chew Getaway Mix",
+      "CaseCount": "6",
+      "Retail": "$3.29",
+      "UPC": "850017589742"
+    },
+    {
+      "Page": "5",
+      "Item": "87018",
+      "Description": "Hi-Chew Berry Mix",
+      "CaseCount": "6",
+      "Retail": "$3.29",
+      "UPC": "850017589056"
+    },
+    {
+      "Page": "5",
+      "Item": "87019",
+      "Description": "Hi-Chew Sweet & Sour Mix",
+      "CaseCount": "6",
+      "Retail": "$3.29",
+      "UPC": "851681008126"
+    },
+    {
+      "Page": "5",
+      "Item": "87020",
+      "Description": "Hi-Chew Original Regular Mix",
+      "CaseCount": "6",
+      "Retail": "$3.29",
+      "UPC": "873983005047"
+    },
+    {
+      "Page": "5",
+      "Item": "87021",
+      "Description": "Hi-Chew Tropical Mix",
+      "CaseCount": "6",
+      "Retail": "$3.29",
+      "UPC": "873983005054"
+    },
+    {
+      "Page": "5",
+      "Item": "87023",
+      "Description": "Hi-Chew SuperFruit Mix",
+      "CaseCount": "6",
+      "Retail": "$3.29",
+      "UPC": "851681008102"
+    },
+    {
+      "Page": "5",
+      "Item": "87040",
+      "Description": "Hi-Chew Original 12.7 oz",
+      "CaseCount": "6",
+      "Retail": "$9.99",
+      "UPC": "851681008379"
+    },
+    {
+      "Page": "5,87036",
+      "Item": "Hi-Chew Infrusions Orchard Mix",
+      "Description": "12",
+      "CaseCount": "$4.99",
+      "Retail": "850017589469",
+      "UPC": ""
+    },
+    {
+      "Page": "5",
+      "Item": "87022",
+      "Description": "H-Soft Salted Caramel Chews",
+      "CaseCount": "6",
+      "Retail": "$3.29",
+      "UPC": "857983004217"
+    },
+    {
+      "Page": "5",
+      "Item": "87014",
+      "Description": "Hi-Chew Dessert Mix 3 oz",
+      "CaseCount": "6",
+      "Retail": "$3.29",
+      "UPC": "857983004293"
+    },
+    {
+      "Page": "5",
+      "Item": "87012",
+      "Description": "Hi-Chew Gummies 4.23 oz",
+      "CaseCount": "9",
+      "Retail": "$2.99",
+      "UPC": "850017589476"
+    },
+    {
+      "Page": "5",
+      "Item": "87013",
+      "Description": "Hi-Chew Gummies Sour 4.23 oz",
+      "CaseCount": "9",
+      "Retail": "$2.99",
+      "UPC": "850017589483"
+    },
+    {
+      "Page": "6",
+      "Item": "87101",
+      "Description": "Cassis Butter Caramel 4oz.",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "08562960010"
+    },
+    {
+      "Page": "6",
+      "Item": "87102",
+      "Description": "Cassis Pecan Caramel 4oz.",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "08562960020"
+    },
+    {
+      "Page": "6",
+      "Item": "87103",
+      "Description": "Cassis Vanilla Sea Salt Caramel 4oz.",
+      "CaseCount": "12",
+      "Retail": "$3.99",
+      "UPC": "08562960090"
+    },
+    {
+      "Page": "7",
+      "Item": "87110",
+      "Description": "J. Morgan Butter Caramels",
+      "CaseCount": "45",
+      "Retail": "$0.39",
+      "UPC": "8562902110"
+    },
+    {
+      "Page": "7",
+      "Item": "87150",
+      "Description": "J. Morgan Licorice Caramels",
+      "CaseCount": "45",
+      "Retail": "$0.39",
+      "UPC": "8562902150"
+    },
+    {
+      "Page": "7",
+      "Item": "87190",
+      "Description": "J. Morgan Vanilla Sea-Salt Caramels",
+      "CaseCount": "45",
+      "Retail": "$0.39",
+      "UPC": "8562902190"
+    },
+    {
+      "Page": "8",
+      "Item": "87529",
+      "Description": "eFrutti Lunch Bag",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "813805002298"
+    },
+    {
+      "Page": "8",
+      "Item": "87530",
+      "Description": "eFrutti Taco Twosday",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "813805000324"
+    },
+    {
+      "Page": "8",
+      "Item": "87531",
+      "Description": "eFrutti Movie Bag",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "813805002328"
+    },
+    {
+      "Page": "8",
+      "Item": "87532",
+      "Description": "eFrutti Bakery Shoppe",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "813805000096"
+    },
+    {
+      "Page": "8",
+      "Item": "87540",
+      "Description": "eFrutti Creamy Strawberry Batch 3.5 oz",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "813805000348"
+    },
+    {
+      "Page": "8",
+      "Item": "87541",
+      "Description": "eFrutti Watermelon Wedges 3.5 oz",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "813805000355"
+    },
+    {
+      "Page": "8",
+      "Item": "87542",
+      "Description": "eFrutti Sweet & Sour Apple Trio 3.5 oz",
+      "CaseCount": "12",
+      "Retail": "$1.99",
+      "UPC": "813805000393"
+    },
+    {
+      "Page": "8",
+      "Item": "87533",
+      "Description": "Herbert's Planet Gummi 2.6 oz",
+      "CaseCount": "12",
+      "Retail": "$4.99",
+      "UPC": "813805990038"
+    },
+    {
+      "Page": "8",
+      "Item": "87534",
+      "Description": "Herbert's Gummi Eyez 2.6 oz",
+      "CaseCount": "12",
+      "Retail": "$4.99",
+      "UPC": "813805990045"
+    },
+    {
+      "Page": "9",
+      "Item": "87100",
+      "Description": "Albert's Ice Cubes 125 ct/pack",
+      "CaseCount": "250",
+      "Retail": "$0.59",
+      "UPC": "072084000061"
+    },
+    {
+      "Page": "10",
+      "Item": "87003",
+      "Description": "Rocket Chocolate Hazelnut",
+      "CaseCount": "50",
+      "Retail": "$0.89",
+      "UPC": "97729901305"
+    },
+    {
+      "Page": "10",
+      "Item": "87005",
+      "Description": "Rocket Chocolate Mint",
+      "CaseCount": "50",
+      "Retail": "$0.89",
+      "UPC": "97729901008"
+    },
+    {
+      "Page": "10",
+      "Item": "87006",
+      "Description": "Rocket Chocolate Mocha",
+      "CaseCount": "50",
+      "Retail": "$0.89",
+      "UPC": "97729901107"
+    },
+    {
+      "Page": "10",
+      "Item": "87007",
+      "Description": "Rocket Chocolate Toffee Latte",
+      "CaseCount": "50",
+      "Retail": "$0.89",
+      "UPC": "97729901602"
+    },
+    {
+      "Page": "10",
+      "Item": "87008",
+      "Description": "Rocket Chocolate Raspberry",
+      "CaseCount": "50",
+      "Retail": "$0.89",
+      "UPC": "97729901404"
+    },
+    {
+      "Page": "10",
+      "Item": "87009",
+      "Description": "Rocket Chocolate Peanut Butter",
+      "CaseCount": "50",
+      "Retail": "$0.89",
+      "UPC": "97729901206"
+    },
+    {
+      "Page": "10",
+      "Item": "87011",
+      "Description": "Rocket Dark Chocolate Mint",
+      "CaseCount": "50",
+      "Retail": "$0.89",
+      "UPC": "97729090207"
+    },
+    {
+      "Page": "11",
+      "Item": "87001",
+      "Description": "Turbo Truffles Mint Singles",
+      "CaseCount": "50",
+      "Retail": "$0.79",
+      "UPC": "780182100018"
+    },
+    {
+      "Page": "11",
+      "Item": "87002",
+      "Description": "Turbo Truffles Coffee Craze",
+      "CaseCount": "50",
+      "Retail": "$0.79",
+      "UPC": "780182400018"
+    },
+    {
+      "Page": "12",
+      "Item": "85729",
+      "Description": "5-Hour Energy 16 box Display 192 ct",
+      "CaseCount": "192",
+      "Retail": "$2.99",
+      "UPC": "85729"
+    },
+    {
+      "Page": "12",
+      "Item": "85701",
+      "Description": "5-Hour Energy RS Pomegranate",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "719410800017"
+    },
+    {
+      "Page": "12",
+      "Item": "85702",
+      "Description": "5-Hour Ultimate Gamer NEW!",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410725006"
+    },
+    {
+      "Page": "12",
+      "Item": "85703",
+      "Description": "5-Hour XS Transfusion NEW!",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "715410186005"
+    },
+    {
+      "Page": "12",
+      "Item": "85704",
+      "Description": "5-Hour XS Tidal Twist",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410776008"
+    },
+    {
+      "Page": "12",
+      "Item": "85708",
+      "Description": "5-Hour XS Peach Mango",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410750015"
+    },
+    {
+      "Page": "12",
+      "Item": "85709",
+      "Description": "5-Hour XS Strawberry/Watermelon",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410740016"
+    },
+    {
+      "Page": "12",
+      "Item": "85710",
+      "Description": "5-Hour XS Berry",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410700010"
+    },
+    {
+      "Page": "12",
+      "Item": "85711",
+      "Description": "5-Hour XS Watermelon",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410775001"
+    },
+    {
+      "Page": "12",
+      "Item": "85712",
+      "Description": "5-Hour XS Hawaiian Breeze",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410784003"
+    },
+    {
+      "Page": "12",
+      "Item": "85713",
+      "Description": "5-Hour XS Tropical Burst",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410785000"
+    },
+    {
+      "Page": "12",
+      "Item": "85714",
+      "Description": "5-Hour XS Blue Raspberry",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410760014"
+    },
+    {
+      "Page": "12",
+      "Item": "85715",
+      "Description": "5-Hour RS Grape",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "719410200015"
+    },
+    {
+      "Page": "12",
+      "Item": "85716",
+      "Description": "5-Hour RS Berry",
+      "CaseCount": "12",
+      "Retail": "$3.29",
+      "UPC": "719410500016"
+    },
+    {
+      "Page": "12",
+      "Item": "85717",
+      "Description": "5-Hour XS Sour Apple",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410730017"
+    },
+    {
+      "Page": "12",
+      "Item": "85718",
+      "Description": "5-Hour XS Grape",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410720018"
+    },
+    {
+      "Page": "12",
+      "Item": "85719",
+      "Description": "5 Hour XS Strawberry/Banana",
+      "CaseCount": "12",
+      "Retail": "$3.49",
+      "UPC": "719410786007"
+    },
+    {
+      "Page": "13",
+      "Item": "85730",
+      "Description": "5-Hour Energy 16 box Refill Kit 192 ct",
+      "CaseCount": "192",
+      "Retail": "$2.99",
+      "UPC": "85730"
+    },
+    {
+      "Page": "14",
+      "Item": "85921",
+      "Description": "Vivazen Energy & Focus 1.9 oz",
+      "CaseCount": "12",
+      "Retail": "$5.99",
+      "UPC": "609465149325"
+    },
+    {
+      "Page": "14",
+      "Item": "85920",
+      "Description": "Vivazen 2X Pain Relief 1.9 oz",
+      "CaseCount": "12",
+      "Retail": "$8.99",
+      "UPC": "628504926567"
+    },
+    {
+      "Page": "14",
+      "Item": "85918",
+      "Description": "Vivazen Relax 1.9 oz",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "628504926567"
+    },
+    {
+      "Page": "14",
+      "Item": "85926",
+      "Description": "Vivazen Relax & Unwind",
+      "CaseCount": "12",
+      "Retail": "$8.99",
+      "UPC": "628504926864"
+    },
+    {
+      "Page": "14",
+      "Item": "85924",
+      "Description": "Vivazen C80 Extract Shot",
+      "CaseCount": "12",
+      "Retail": "$13.99",
+      "UPC": "628504926338"
+    },
+    {
+      "Page": "14",
+      "Item": "85927",
+      "Description": "Vivazen Ultimate Honey",
+      "CaseCount": "12",
+      "Retail": "$14.99",
+      "UPC": "628504926277"
+    },
+    {
+      "Page": "14",
+      "Item": "85919",
+      "Description": "Vivazen C120 Ultimate MIT130 shot",
+      "CaseCount": "12",
+      "Retail": "$17.99",
+      "UPC": "628504926123"
+    },
+    {
+      "Page": "14",
+      "Item": "85917",
+      "Description": "Vivazen Tower Display (save $$)",
+      "CaseCount": "60",
+      "Retail": "",
+      "UPC": ""
+    },
+    {
+      "Page": "15",
+      "Item": "85818",
+      "Description": "MIT45 Liquid Gold",
+      "CaseCount": "12",
+      "Retail": "$19.99",
+      "UPC": "81049700033"
+    },
+    {
+      "Page": "15",
+      "Item": "85886",
+      "Description": "MIT45 Super K Special Edition",
+      "CaseCount": "12",
+      "Retail": "$14.99",
+      "UPC": "81049700057"
+    },
+    {
+      "Page": "15",
+      "Item": "85807",
+      "Description": "MIT45 Super K Extra Strength",
+      "CaseCount": "12",
+      "Retail": "$29.99",
+      "UPC": "810149700071"
+    },
+    {
+      "Page": "16",
+      "Item": "85734",
+      "Description": "Kanva Focus + Flow",
+      "CaseCount": "12",
+      "Retail": "$9.99",
+      "UPC": "850041279343"
+    },
+    {
+      "Page": "16",
+      "Item": "85741",
+      "Description": "Kanva Kanna + Kava",
+      "CaseCount": "12",
+      "Retail": "$9.99",
+      "UPC": "850041279411"
+    },
+    {
+      "Page": "16",
+      "Item": "85744",
+      "Description": "Kanva Zoom Eighty",
+      "CaseCount": "12",
+      "Retail": "$6.99",
+      "UPC": "850041279442"
+    },
+    {
+      "Page": "16",
+      "Item": "85748",
+      "Description": "Kanva Mango Tango",
+      "CaseCount": "12",
+      "Retail": "$9.99",
+      "UPC": "703674239188"
+    },
+    {
+      "Page": "16",
+      "Item": "85796",
+      "Description": "Kanva Asst. Tower Display",
+      "CaseCount": "96",
+      "Retail": "",
+      "UPC": "85796"
+    },
+    {
+      "Page": "17",
+      "Item": "90077",
+      "Description": "HookUps Tech Acc. Disp.120ct",
+      "CaseCount": "120",
+      "Retail": "$9.39",
+      "UPC": "840124195455"
+    },
+    {
+      "Page": "17",
+      "Item": "90205",
+      "Description": "H.Ups Plus 20w Dual Car Charge",
+      "CaseCount": "12",
+      "Retail": "$14.99",
+      "UPC": "840124176058"
+    },
+    {
+      "Page": "17",
+      "Item": "90206",
+      "Description": "H.Ups Plus 20wDual Wall Charge",
+      "CaseCount": "12",
+      "Retail": "$14.99",
+      "UPC": "840124176065"
+    },
+    {
+      "Page": "17",
+      "Item": "90295",
+      "Description": "H.Ups Plus 8-Pin to USB Cable",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "840124175952"
+    },
+    {
+      "Page": "17",
+      "Item": "90296",
+      "Description": "H.Ups Plus Type C to USB Cable",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "840124175969"
+    },
+    {
+      "Page": "17",
+      "Item": "90297",
+      "Description": "H.Ups Plus 8-Pin to Type-C",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "840124175976"
+    },
+    {
+      "Page": "17",
+      "Item": "90298",
+      "Description": "H.Ups Plus Type-C to Type-C",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "840124175983"
+    },
+    {
+      "Page": "18",
+      "Item": "90300",
+      "Description": "Volt Designer Spin.Rack 120 ct",
+      "CaseCount": "120",
+      "Retail": "",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90333",
+      "Description": "Volt Fast Car Charger",
+      "CaseCount": "10",
+      "Retail": "$12.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90334",
+      "Description": "Volt Fast Wall Charger",
+      "CaseCount": "10",
+      "Retail": "$14.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90316",
+      "Description": "Volt CLASSIC 10FT Cable - iPhone",
+      "CaseCount": "",
+      "Retail": "$10.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90317",
+      "Description": "Volt CLASSIC 10FT Cable - Type C",
+      "CaseCount": "",
+      "Retail": "$10.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90318",
+      "Description": "Volt CLASSIC 10FT Cable - Micro USB",
+      "CaseCount": "",
+      "Retail": "$10.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90313",
+      "Description": "Volt STUDIO 10FT Cable - iPhone",
+      "CaseCount": "",
+      "Retail": "$10.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90314",
+      "Description": "Volt STUDIO 10FT Cable - Type C",
+      "CaseCount": "",
+      "Retail": "$10.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90314",
+      "Description": "Volt STUDIO 10FT Cable - Micro USB",
+      "CaseCount": "",
+      "Retail": "$10.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90310",
+      "Description": "Volt SELECT 10FT Cable - iPhone",
+      "CaseCount": "",
+      "Retail": "$10.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90311",
+      "Description": "Volt SELECT 10FT Cable - Type C",
+      "CaseCount": "",
+      "Retail": "$10.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90319",
+      "Description": "Volt SELECT 10FT Cable - Micro USB",
+      "CaseCount": "",
+      "Retail": "$10.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90319",
+      "Description": "Volt TOUGH 10FT Cable - Triple Tip",
+      "CaseCount": "",
+      "Retail": "$14.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90301",
+      "Description": "Volt Fast Charge 10FT Cable - iPhone",
+      "CaseCount": "",
+      "Retail": "$14.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90302",
+      "Description": "Volt Fast Charge 10FT Cable - Type C",
+      "CaseCount": "",
+      "Retail": "$14.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90305",
+      "Description": "Volt Fast Ch STUDIO 10FT Cable - iPhone",
+      "CaseCount": "",
+      "Retail": "$14.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90306",
+      "Description": "Volt Fast Ch STUDIO 10FT Cable - Type C",
+      "CaseCount": "",
+      "Retail": "$14.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90303",
+      "Description": "Volt Fast CH SELECT 10FT Cable - iPhone",
+      "CaseCount": "",
+      "Retail": "$14.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90304",
+      "Description": "Volt Fast CH SELECT 10FT Cable - Type C",
+      "CaseCount": "",
+      "Retail": "$14.99",
+      "UPC": ""
+    },
+    {
+      "Page": "18",
+      "Item": "90307",
+      "Description": "Volt Fast Ch TOUGH 10FT Cable - Double Tip",
+      "CaseCount": "",
+      "Retail": "$19.99",
+      "UPC": ""
+    },
+    {
+      "Page": "19",
+      "Item": "90003",
+      "Description": "BIC 8-Tier Display, 382 ct / 50 free",
+      "CaseCount": "382",
+      "Retail": "",
+      "UPC": ""
+    },
+    {
+      "Page": "19",
+      "Item": "90003",
+      "Description": "DjEEP Bold Lighter",
+      "CaseCount": "12",
+      "Retail": "$4.29",
+      "UPC": "07033245"
+    },
+    {
+      "Page": "19",
+      "Item": "90003",
+      "Description": "BIC Mini Tray",
+      "CaseCount": "50",
+      "Retail": "$1.99",
+      "UPC": "070330620957"
+    },
+    {
+      "Page": "19",
+      "Item": "90003",
+      "Description": "BIC Geometric/Flick My BIC Series",
+      "CaseCount": "50",
+      "Retail": "$2.59",
+      "UPC": "070330622401"
+    },
+    {
+      "Page": "19",
+      "Item": "90003",
+      "Description": "BIC Favorite Series",
+      "CaseCount": "50",
+      "Retail": "$2.59",
+      "UPC": "070330600065"
+    },
+    {
+      "Page": "19",
+      "Item": "90003",
+      "Description": "BIC Maxi Classic",
+      "CaseCount": "100",
+      "Retail": "$2.29",
+      "UPC": "070330658721"
+    },
+    {
+      "Page": "19",
+      "Item": "90003",
+      "Description": "BIC EZ Reach",
+      "CaseCount": "20",
+      "Retail": "$3.49",
+      "UPC": ""
+    },
+    {
+      "Page": "19",
+      "Item": "90003",
+      "Description": "BIC Tattoo Tray",
+      "CaseCount": "50",
+      "Retail": "$2.59",
+      "UPC": "070330600065"
+    },
+    {
+      "Page": "19",
+      "Item": "90003",
+      "Description": "BIC Maxi Classic Free Tray",
+      "CaseCount": "50",
+      "Retail": "$2.29",
+      "UPC": ""
+    },
+    {
+      "Page": "19",
+      "Item": "90020",
+      "Description": "DJEEP Steady Jet Torch (top right of display)",
+      "CaseCount": "12",
+      "Retail": "$4.99",
+      "UPC": "080692951606"
+    },
+    {
+      "Page": "20",
+      "Item": "90021",
+      "Description": "DJEEP 12 Count Refill Tray",
+      "CaseCount": "12",
+      "Retail": "$4.29",
+      "UPC": "070330665804"
+    },
+    {
+      "Page": "20",
+      "Item": "90022",
+      "Description": "BIC EZ Reach",
+      "CaseCount": "20",
+      "Retail": "$3.49",
+      "UPC": "070330658721"
+    },
+    {
+      "Page": "20",
+      "Item": "90010",
+      "Description": "BIC Maxi Classic Solid Colors (LC199)",
+      "CaseCount": "50",
+      "Retail": "$2.29",
+      "UPC": "070330600065"
+    },
+    {
+      "Page": "20",
+      "Item": "90011",
+      "Description": "BIC Favorites (LCWT1FS)",
+      "CaseCount": "50",
+      "Retail": "$2.79",
+      "UPC": "070330622401"
+    },
+    {
+      "Page": "20",
+      "Item": "90012",
+      "Description": "BIC Mini Classic (LCJ199)",
+      "CaseCount": "50",
+      "Retail": "$1.99",
+      "UPC": "07033245"
+    },
+    {
+      "Page": "20",
+      "Item": "90013",
+      "Description": "BIC Maxi Seattle Seahawks (LCR199FS)",
+      "CaseCount": "50",
+      "Retail": "$3.49",
+      "UPC": "070330616318"
+    },
+    {
+      "Page": "20",
+      "Item": "90014",
+      "Description": "BIC Maxi Seattle Kraken (LCRT1HSK)",
+      "CaseCount": "50",
+      "Retail": "$3.49",
+      "UPC": "070330664005"
+    },
+    {
+      "Page": "20",
+      "Item": "90020",
+      "Description": "DJEEP Steady Jet Torch",
+      "CaseCount": "12",
+      "Retail": "$4.99",
+      "UPC": "080692951606"
+    },
+    {
+      "Page": "20",
+      "Item": "90015",
+      "Description": "Special Edition",
+      "CaseCount": "50",
+      "Retail": "$2.79",
+      "UPC": "070330668911"
+    },
+    {
+      "Page": "20",
+      "Item": "90002",
+      "Description": "BIC EZ Load",
+      "CaseCount": "10",
+      "Retail": "$7.99",
+      "UPC": "070330670105"
+    },
+    {
+      "Page": "20",
+      "Item": "90023",
+      "Description": "Everyday 2-Tier Display (Varies)",
+      "CaseCount": "100",
+      "Retail": "$2.59",
+      "UPC": ""
+    },
+    {
+      "Page": "22",
+      "Item": "90531",
+      "Description": "Zimo Mint 3 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488948410"
+    },
+    {
+      "Page": "22",
+      "Item": "90532",
+      "Description": "Zimo Grape 3 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488943729"
+    },
+    {
+      "Page": "22",
+      "Item": "90533",
+      "Description": "Zimo Wintergreen 3 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488948427"
+    },
+    {
+      "Page": "22",
+      "Item": "90534",
+      "Description": "Zimo Mango 3 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488943712"
+    },
+    {
+      "Page": "22",
+      "Item": "90535",
+      "Description": "Zimo Blueberry 3 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488943736"
+    },
+    {
+      "Page": "22",
+      "Item": "90536",
+      "Description": "Zimo Cinnamon 3 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488948434"
+    },
+    {
+      "Page": "22",
+      "Item": "90561",
+      "Description": "Zimo Mint 6 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488944870"
+    },
+    {
+      "Page": "22",
+      "Item": "90562",
+      "Description": "Zimo Grape 6 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488944894"
+    },
+    {
+      "Page": "22",
+      "Item": "90563",
+      "Description": "Zimo Wintergreen 6 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974499044887"
+    },
+    {
+      "Page": "22",
+      "Item": "90564",
+      "Description": "Zimo Mango 6 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488944894"
+    },
+    {
+      "Page": "22",
+      "Item": "90565",
+      "Description": "Zimo Blueberry 6 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488945549"
+    },
+    {
+      "Page": "22",
+      "Item": "90566",
+      "Description": "Zimo Cinnamon 6 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488944894"
+    },
+    {
+      "Page": "22",
+      "Item": "90581",
+      "Description": "Zimo Mint 8 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488945556"
+    },
+    {
+      "Page": "22",
+      "Item": "90582",
+      "Description": "Zimo Grape 8 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488945594"
+    },
+    {
+      "Page": "22",
+      "Item": "98583",
+      "Description": "Zimo Wintergreen 8 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488945563"
+    },
+    {
+      "Page": "22",
+      "Item": "90584",
+      "Description": "Zimo Mango 8 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488945587"
+    },
+    {
+      "Page": "22",
+      "Item": "98585",
+      "Description": "Zimo Blueberry 8 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488945600"
+    },
+    {
+      "Page": "22",
+      "Item": "98586",
+      "Description": "Zimo Cinnamon 8 mg",
+      "CaseCount": "5",
+      "Retail": "$4.99",
+      "UPC": "6974488945570"
+    },
+    {
+      "Page": "33",
+      "Item": "03101",
+      "Description": "Original Jerky 3 oz",
+      "CaseCount": "12",
+      "Retail": "$8.99",
+      "UPC": "837690001013"
+    },
+    {
+      "Page": "33",
+      "Item": "03102",
+      "Description": "Peppered Jerky 3 oz",
+      "CaseCount": "12",
+      "Retail": "$8.99",
+      "UPC": "837690001020"
+    },
+    {
+      "Page": "33",
+      "Item": "03103",
+      "Description": "Teriyaki Jerky 3 oz",
+      "CaseCount": "12",
+      "Retail": "$8.99",
+      "UPC": "837690001037"
+    },
+    {
+      "Page": "33",
+      "Item": "03104",
+      "Description": "Sweet & Hot Jerky 3 oz",
+      "CaseCount": "12",
+      "Retail": "$8.99",
+      "UPC": "837690001044"
+    },
+    {
+      "Page": "33",
+      "Item": "03231",
+      "Description": "Original Jerky 9 oz",
+      "CaseCount": "12",
+      "Retail": "$19.99",
+      "UPC": "837690002317"
+    },
+    {
+      "Page": "33",
+      "Item": "03232",
+      "Description": "Peppered Jerky 9 oz",
+      "CaseCount": "12",
+      "Retail": "$19.99",
+      "UPC": "837690002324"
+    },
+    {
+      "Page": "33",
+      "Item": "03233",
+      "Description": "Teriyaki Jerky 9 oz",
+      "CaseCount": "12",
+      "Retail": "$19.99",
+      "UPC": "837690002331"
+    },
+    {
+      "Page": "33",
+      "Item": "03234",
+      "Description": "Sweet & Hot Jerky 9 oz",
+      "CaseCount": "12",
+      "Retail": "$19.99",
+      "UPC": "837690002348"
+    },
+    {
+      "Page": "33",
+      "Item": "03677",
+      "Description": "Walla Walla Sweet Onion Sticks 10 oz",
+      "CaseCount": "12",
+      "Retail": "$15.99",
+      "UPC": "094321886771"
+    },
+    {
+      "Page": "33",
+      "Item": "03679",
+      "Description": "Bootlegger's Bourbon Sticks 10 oz",
+      "CaseCount": "12",
+      "Retail": "$15.99",
+      "UPC": "094321886795"
+    },
+    {
+      "Page": "33",
+      "Item": "03681",
+      "Description": "Original Meat Sticks 10 oz",
+      "CaseCount": "12",
+      "Retail": "$15.99",
+      "UPC": "094321886818"
+    },
+    {
+      "Page": "33",
+      "Item": "03683",
+      "Description": "Teriyaki Meat Sticks 10 oz",
+      "CaseCount": "12",
+      "Retail": "$15.99",
+      "UPC": "094321886832"
+    },
+    {
+      "Page": "34",
+      "Item": "02401",
+      "Description": "Ol' Fashioned Jerky 8 oz",
+      "CaseCount": "8",
+      "Retail": "$15.99",
+      "UPC": "709972790383"
+    },
+    {
+      "Page": "34",
+      "Item": "02402",
+      "Description": "Zesty Teriyaki Jerky 8 oz",
+      "CaseCount": "8",
+      "Retail": "$15.99",
+      "UPC": "709972790390"
+    },
+    {
+      "Page": "34",
+      "Item": "02404",
+      "Description": "Sweet Smoked Jalape\u00f1o Jerky 8 oz",
+      "CaseCount": "8",
+      "Retail": "$15.99",
+      "UPC": "709972790420"
+    },
+    {
+      "Page": "34",
+      "Item": "02405",
+      "Description": "Sweet Onion Pineapple Jerky 8 oz",
+      "CaseCount": "8",
+      "Retail": "$15.99",
+      "UPC": "709972790949"
+    },
+    {
+      "Page": "34",
+      "Item": "02411",
+      "Description": "Teriyaki Stick IW 1.35 oz",
+      "CaseCount": "24",
+      "Retail": "$2.19",
+      "UPC": "709972311212"
+    },
+    {
+      "Page": "34",
+      "Item": "02412",
+      "Description": "Pepperoni Stick IW 1.35 oz",
+      "CaseCount": "24",
+      "Retail": "$2.19",
+      "UPC": "709972311229"
+    },
+    {
+      "Page": "34",
+      "Item": "02419",
+      "Description": "Teriyaki Stick 10 oz/14 ct Bag",
+      "CaseCount": "10",
+      "Retail": "$15.99",
+      "UPC": "709972790192"
+    },
+    {
+      "Page": "34",
+      "Item": "02420",
+      "Description": "Pepperoni Stick 10 oz/14 ct Bag",
+      "CaseCount": "10",
+      "Retail": "$15.99",
+      "UPC": "709972790208"
+    },
+    {
+      "Page": "34",
+      "Item": "02451",
+      "Description": "Mini Teriyaki Sticks 12 oz",
+      "CaseCount": "8",
+      "Retail": "$16.99",
+      "UPC": "709972301510"
+    },
+    {
+      "Page": "34",
+      "Item": "02452",
+      "Description": "Mini Pepperoni Sticks 12oz",
+      "CaseCount": "8",
+      "Retail": "$16.99",
+      "UPC": "709972301527"
+    },
+    {
+      "Page": "34",
+      "Item": "02453",
+      "Description": "Mini Sausage Sticks 12 oz",
+      "CaseCount": "8",
+      "Retail": "$16.99",
+      "UPC": "709972301534"
+    },
+    {
+      "Page": "34",
+      "Item": "02455",
+      "Description": "Mini Jalape\u00f1o Sticks 12 oz",
+      "CaseCount": "8",
+      "Retail": "$16.99",
+      "UPC": "709972790482"
+    },
+    {
+      "Page": "34",
+      "Item": "02430",
+      "Description": "Spicy Pickled Sausage",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "709972320610"
+    },
+    {
+      "Page": "34",
+      "Item": "02431",
+      "Description": "Beef & Cheese IW",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "709972390019"
+    },
+    {
+      "Page": "34",
+      "Item": "02432",
+      "Description": "Jalape\u00f1o Beef & Cheese IW",
+      "CaseCount": "12",
+      "Retail": "$2.29",
+      "UPC": "709972390026"
+    },
+    {
+      "Page": "34",
+      "Item": "02473",
+      "Description": "Teriyaki Kippered Steak 2 oz",
+      "CaseCount": "12",
+      "Retail": "$4.29",
+      "UPC": "709972752039"
+    },
+    {
+      "Page": "34",
+      "Item": "02477",
+      "Description": "Original Hickory Kippered Steak 2 oz",
+      "CaseCount": "12",
+      "Retail": "$4.29",
+      "UPC": "709972752077"
+    },
+    {
+      "Page": "34",
+      "Item": "02481",
+      "Description": "Werner Original Medallions Jar",
+      "CaseCount": "80",
+      "Retail": "$0.39",
+      "UPC": "02481"
+    },
+    {
+      "Page": "34",
+      "Item": "02482",
+      "Description": "Werner Teriyaki Medallions Jar",
+      "CaseCount": "80",
+      "Retail": "$0.39",
+      "UPC": "02482"
+    },
+    {
+      "Page": "35",
+      "Item": "02436",
+      "Description": "Werner Teriyaki Slab IW 1oz.",
+      "CaseCount": "15",
+      "Retail": "$2.99",
+      "UPC": "709972770361"
+    },
+    {
+      "Page": "35",
+      "Item": "02437",
+      "Description": "Werner Sea Salt & Pepper Slab IW 1oz",
+      "CaseCount": "15",
+      "Retail": "$2.99",
+      "UPC": "709972770378"
+    },
+    {
+      "Page": "35",
+      "Item": "02438",
+      "Description": "Werner Hot & Spicy Slab IW 1oz.",
+      "CaseCount": "15",
+      "Retail": "$2.99",
+      "UPC": "709972770385"
+    },
+    {
+      "Page": "35",
+      "Item": "02443",
+      "Description": "Werner Teriyaki Stick Refill",
+      "CaseCount": "20",
+      "Retail": "$1.59",
+      "UPC": "709972770439"
+    },
+    {
+      "Page": "35",
+      "Item": "02444",
+      "Description": "Werner Pepperoni Stick Refill",
+      "CaseCount": "20",
+      "Retail": "$1.59",
+      "UPC": "709972770446"
+    },
+    {
+      "Page": "35",
+      "Item": "02445",
+      "Description": "Werner Hot Pepperoni Stick Refill",
+      "CaseCount": "20",
+      "Retail": "$1.59",
+      "UPC": "709972770453"
+    },
+    {
+      "Page": "35",
+      "Item": "02446",
+      "Description": "Werner Pepper Stick Refill",
+      "CaseCount": "20",
+      "Retail": "$1.59",
+      "UPC": "709972770460"
+    },
+    {
+      "Page": "35",
+      "Item": "02447",
+      "Description": "Werner Teriyaki Jerky Strip Refill",
+      "CaseCount": "18",
+      "Retail": "$1.59",
+      "UPC": "709972770477"
+    },
+    {
+      "Page": "35",
+      "Item": "02448",
+      "Description": "Werner Peppered Jerky Strip Refill",
+      "CaseCount": "18",
+      "Retail": "$1.59",
+      "UPC": "709972770484"
+    },
+    {
+      "Page": "36",
+      "Item": "02310",
+      "Description": "Salty Bitch Beef Jerky 4.8 oz",
+      "CaseCount": "30",
+      "Retail": "$19.99",
+      "UPC": "709972762106"
+    },
+    {
+      "Page": "37",
+      "Item": "04003",
+      "Description": "Old Fash Slab Jerky Bulk IW Refill",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "051943270036"
+    },
+    {
+      "Page": "37",
+      "Item": "04005",
+      "Description": "Teriyaki Slab Jerky Bulk IW Refill",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "051943270050"
+    },
+    {
+      "Page": "37",
+      "Item": "04008",
+      "Description": "Pepper Slab Jerky Bulk IW Refill",
+      "CaseCount": "12",
+      "Retail": "$2.99",
+      "UPC": "051943270081"
+    },
+    {
+      "Page": "37",
+      "Item": "04031",
+      "Description": "Original Beef Stick IW Bulk Refill",
+      "CaseCount": "15",
+      "Retail": "$1.59",
+      "UPC": "051943270319"
+    },
+    {
+      "Page": "37",
+      "Item": "04034",
+      "Description": "Jalape\u00f1o Stick IW Bulk Refill",
+      "CaseCount": "15",
+      "Retail": "$1.59",
+      "UPC": "051943270364"
+    },
+    {
+      "Page": "37",
+      "Item": "04037",
+      "Description": "Teriyaki Stick IW Bulk Refill",
+      "CaseCount": "15",
+      "Retail": "$1.59",
+      "UPC": "051943270371"
+    },
+    {
+      "Page": "37",
+      "Item": "04040",
+      "Description": "Pepperoni Stick IW Bulk Refill",
+      "CaseCount": "15",
+      "Retail": "$1.59",
+      "UPC": "051943270401"
+    },
+    {
+      "Page": "37",
+      "Item": "04074",
+      "Description": "Hunters Sausage IW Sticks 1.44 oz",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "051943244235"
+    },
+    {
+      "Page": "37",
+      "Item": "04077",
+      "Description": "Teriyaki Sausage IW Sticks 1.44 oz",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "051943700779"
+    },
+    {
+      "Page": "37",
+      "Item": "04080",
+      "Description": "Pepperoni IW Sticks 1.44 oz",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "051943700809"
+    },
+    {
+      "Page": "37",
+      "Item": "04078",
+      "Description": "Jalape\u00f1o Pepper IW Sticks 1.44 oz",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "051943144245"
+    },
+    {
+      "Page": "37",
+      "Item": "04134",
+      "Description": "Mike's Hot Honey IW Stick 1.44 oz",
+      "CaseCount": "24",
+      "Retail": "$1.99",
+      "UPC": "051943302348"
+    },
+    {
+      "Page": "37",
+      "Item": "04062",
+      "Description": "TCS Mikes Hot Hny Stk 9.25oz.",
+      "CaseCount": "12",
+      "Retail": "$17.99",
+      "UPC": "051943308647"
+    },
+    {
+      "Page": "37",
+      "Item": "04172",
+      "Description": "TCS Orig.Snk Sticks 12oz.",
+      "CaseCount": "6",
+      "Retail": "$17.99",
+      "UPC": "05194305172"
+    },
+    {
+      "Page": "37",
+      "Item": "04175",
+      "Description": "TCS Teri.Snk Sticks 12oz.",
+      "CaseCount": "6",
+      "Retail": "$17.99",
+      "UPC": "051943051758"
+    },
+    {
+      "Page": "37",
+      "Item": "04321",
+      "Description": "TCS Old Fashioned Jerky 8 oz",
+      "CaseCount": "6",
+      "Retail": "$17.99",
+      "UPC": "051943050218"
+    },
+    {
+      "Page": "37",
+      "Item": "04322",
+      "Description": "Teriyaki Jerky 8 oz",
+      "CaseCount": "6",
+      "Retail": "$17.99",
+      "UPC": "051943050225"
+    },
+    {
+      "Page": "37",
+      "Item": "04323",
+      "Description": "Honey Glazed 8 oz",
+      "CaseCount": "6",
+      "Retail": "$17.99",
+      "UPC": "051943050232"
+    },
+    {
+      "Page": "37",
+      "Item": "04324",
+      "Description": "Sea Salt & Pepper 8 oz",
+      "CaseCount": "6",
+      "Retail": "$17.99",
+      "UPC": "051943050249"
+    },
+    {
+      "Page": "37",
+      "Item": "04401",
+      "Description": "Old Fashioned Jerky 2.5 oz",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "051943287010"
+    },
+    {
+      "Page": "37",
+      "Item": "04402",
+      "Description": "Teriyaki Jerky 2.5 oz",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "051943287027"
+    },
+    {
+      "Page": "37",
+      "Item": "04403",
+      "Description": "Honey Glazed Jerky 2.5 oz",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "051943287034"
+    },
+    {
+      "Page": "37",
+      "Item": "04404",
+      "Description": "Sea Salt & Pepper Jerky 2.5 oz",
+      "CaseCount": "12",
+      "Retail": "$7.99",
+      "UPC": "051943287041"
+    }
+  ],
+  "images": [
+    "21062_Original_Beef_Stick_1_oz.png",
+    "21065_Jalape\u00c3\u00b1o_Cheddar_Stick_1_oz.png",
+    "21600_Johnson_Smokehouse_Cascade_Trail_Mix_4_oz.png",
+    "22180_Hillshire_Snacking_Wine_Infused_Salame_2_76_oz.png",
+    "50012_Raybern_s_Roast_Beef___Cheddar_Melt.png",
+    "50069_Raybern_s_Chicken_Bacon_Ranch_Sandwich.png",
+    "50071_Raybern_s_Philly_Cheesesteak_Sandwich.png",
+    "50087_Raybern_s_BBQ_Pulled_Pork_Sandwich.png",
+    "50232_JD_Canadian_Bacon_Egg_Cheese_Muffin.png",
+    "50233_JD_Sausage_Egg_Cheese_Muffin.png",
+    "50256_JD_Sausage_Egg_Pancake.png",
+    "50259_JD_Sausage_Egg_Cheese_Croisaant.png",
+    "50268_JD_Ham_Egg_Cheese_Muffin.png",
+    "50272_JD_Sausage_Egg_Cheese_Bagel.png",
+    "50274_JD_Sausage_Egg_Cheese_Biscuit.png",
+    "50319_Freshwich_Turkey_Cheddar_Sub_5_5_oz.png",
+    "50320_Freshwich_Ham___Swiss_Sub_5_5_oz.png",
+    "50321_Freshwich_American_Club_5_5_oz.png",
+    "50322_Freshwich_Italian_Club_5_5_oz.png",
+    "50606_BB_Egg_Salad_Haw_5_1oz_FR.png",
+    "50608_BB_Tky___Ched_Crsnt_6_2oz_FR.png",
+    "50609_BB_Ham___Swiss_Crsnt_6_2oz_FR.png",
+    "50624_BB_Tky_Pesto_Ciabatta_9_3oz_FR.png",
+    "50679_BB_Tuna_Salad_Honey_Oat_5_1oz_FR.png",
+    "50682_BB_Monte_Cristo_13_7oz_FR.png",
+    "50683_BB_Reuben_9_6oz_FR.png",
+    "50684_BB_Cuban_Special_FR.png",
+    "50700_Big_Az_Country_Fried_Chicken_w_Cheese.png",
+    "50715_Big_Az_Bacon_Addict_Burger_9_35.png",
+    "50731_Big_Az_Kickin__Jalapeno_w_Cheese_9_7.png",
+    "50775_Big_Az_Angus_Cheddar_8_7oz_.png",
+    "50784_Big_Az_Beef_Charbroil_w_Cheese_8_9.png",
+    "53016_Tornado_Cheese___Pepperoni_3oz_.png",
+    "53017_XXL_Bean___Cheese_Burrito_9_5_oz.png",
+    "53037_Tornado_Southwest_Chicken_3oz_.png",
+    "53044_Tornado_Cheesy_Pepper_Jack_3oz_.png",
+    "53060_XXL_Beef__Bean___Grn_Chili_Burrito_9_5_oz.png",
+    "53069_XXL_Spicy_Red_Hot_Burrito_9_5_oz.png",
+    "53082_XXL_Beef___Bean_Burrito_9_5_oz.png",
+    "53089_Kimbap_Vegetable.png",
+    "53090_Tornado_Ranchero_Beef___Cheese_3oz_.png",
+    "53096_Kimbap_Bulgogi.png",
+    "53144_Tornado_Egg_Bacon___Salsa_3oz_.png",
+    "53159_Tornado_Egg_Sausage___Cheese_3oz_.png",
+    "53168_Tornado_French_Toast_3oz_.png",
+    "53414_THE_BOMB_Beef__Bean__Cheese____Red_Chile_12_oz.png",
+    "53415_THE_BOMB_Beef__Bean__Cheese____Green_Chile_12_oz.png",
+    "53416_THE_BOMB_Spicy_Red_Hot_\u00c2\u00bc_lb_12_oz.png",
+    "56702_Hot_Pockets_Ham___Cheese_8_oz.png",
+    "56734_Hot_Pockets_Philly_Cheesesteak_8_oz.png",
+    "60004_Beecher_s_Flagship_Cheese_Sticks__Extra_Sharp_.png",
+    "60005_Beecher_s_Marco_Polo_Cheese_Sticks.png",
+    "60100_Cheesewich_Mozzarella_String_Cheese_1_oz.png",
+    "60110_Cheesewich_Cheddar_Cheese_1_oz.png",
+    "60131_Cheesewich_Baconwich_1_17_oz.png",
+    "60200_Cheesewich_Hard_Salami___Colby_Jack_2_5_oz.png",
+    "60300_Cheesewich_Hard_Salami___Pepper_Jack_2_5_oz.png",
+    "60407_Wisconsin_s_Best_Cheddar_Stick_Combo_3_75_oz.png",
+    "60409_Wisconsin_s_Best_Pepper_Jack_Combo_3_75_oz.png",
+    "60464_Wisconsin_s_Best_Mixed_Cheese_Curds_4_oz.png",
+    "60468_Wisconsin_s_Best_Garlic_Dill_Curds_4_oz.png",
+    "61925_Oh_Snap__Sassy_Bites_3_25_oz.png",
+    "61936_Oh_Snap__Gone_Dilly_Whole_Pickle_3_oz.png",
+    "61937_Oh_Snap__Hottie_Whole_Pickle_3_oz.png",
+    "61938_Oh_Snap__Dilly_Bites_3_25_oz.png",
+    "61992_Van_Holten_Warheads_Sour.png",
+    "61996_Van_Holten_Dill_Pickle.png",
+    "61997_Van_Holten_Kosher_Pickle.png",
+    "61999_Van_Holten_Hot_Pickle.png",
+    "80015_Spitz_Smoky_BBQ_6_oz.png",
+    "80016_Spitz_Original_6_oz.png",
+    "82704_Tajin_Mango_Rings_5_oz.png",
+    "82705_Tajin_Gummy_Bears_4_oz.png",
+    "82707_Hidden_Valley_Ranch_Almonds_2_5_oz.png",
+    "83025_Jonny_Almond_Praline_Pecans_4_oz.png",
+    "83027_Jonny_Almond_Cinnamon_Almonds_4_oz.png",
+    "83028_Jonny_Almond_Honeysalt_Cashews_4_oz.png",
+    "83033_Taco_Works_Original_1_lb.png",
+    "83418_Simply_Stellar_12_oz.png",
+    "83419_Bold___Herby_12_oz.png",
+    "83420_Sweet___Sparky_12_oz.png",
+    "83421_Maui_Monk_12_oz.png",
+    "83423_French_Dijon_12_oz.png",
+    "83706_Roasted_Habanero_Sauce_8_oz.png",
+    "83709_Cilantro_Serrano_Sauce_8_oz.png",
+    "84001_Ne_Mo_s_Carrot_Cake.png",
+    "84002_Ne_Mo_s_Banana_Cake.png",
+    "84003_Ne_Mo_s_Chocolate_Cake.png",
+    "84004_Ne_Mo_s_Strawberry_Cake.png",
+    "84020_Iced_Lemon_Pound_Cake_4_oz.png",
+    "84901_JJ_s_Apple_Pie_4oz_.png",
+    "84902_JJ_s_Cherry_Pie_4oz_.png",
+    "84903_JJ_s_Blackberry_Pie_4oz_.png",
+    "84906_JJ_s_Chocolate_Pie_4oz_.png",
+    "84915_JJ_s_Boston_Crm_Pie_4oz_.png",
+    "87055_Mega_Slime_Licker_3_oz.png",
+    "87057_Slime_Licker_2_0_Black_Cherry___Sour_Apple_2_oz.png",
+    "87059_Slime_Licker_Double_Play.png",
+    "87060_Slime_Licker_Spray.png",
+    "87220_Fluffy_Stuff_Cotton_Candy.png",
+    "87221_Watermelon_Cotton_Candy.png",
+    "87225_Charlotte_s_Country_Fudge_1_25_oz_Squares__seasona.png",
+    "87240_Viper_Blast_Spray.png",
+    "87241_Viper_Roller_Liquid.png",
+    "87243_Rose_Pops_Assorted.png",
+    "87253_Blue_Ribbon_Coconut_Bar.png",
+    "87301_12_Super_Tube_in_a_box_.png",
+    "87304_Slush_Puppies_Dip_N_Lik.png",
+    "87305_Dippin__Dots_Dip_N_Lik.png",
+    "87306_Mr__Squeezy_Pop_Squeeze_N_Lik.png",
+    "87309_World_s_Biggest_Candy_Necklace.png",
+    "87318_Slush_Puppies_Squeeze_Candy.png",
+    "87323_King_Cobra_Candy.png",
+    "87335_Unicorn_Dip_N_Lik.png",
+    "87501_Raindrops_Hamburger_4_59_oz.png",
+    "87502_Raindrops_Pizza_3_oz.png",
+    "87503_Raindrops_Sushi_3_oz.png",
+    "87516_Raindrops_Candy_Foam_2_37_oz.png",
+    "87520_Raindrops_Magic_Potion.png",
+    "87521_Raindrops_Ice_Cream_Candy__88_oz.png",
+    "87543_Sour_Straws_Pineapple_Splash.png",
+    "87571_Frost_Bites_Peach_Rings.png",
+    "87572_Frost_Bites_Watermelon_Rings.png",
+    "87573_Frost_Bites_Chamoy_Watermelon_Rings.png",
+    "87574_Frost_Bites_Sour_Worms.png",
+    "87575_Frost_Bites_Shark_Bites.png",
+    "87930_Kinder_Applaydu_Eggs.png",
+    "87931_Kinder_Natoons_Eggs.png",
+    "87940_Feritio_Angel_Hair_5_29oz_.png",
+    "87945_Feritio_Freeze_Dried_Strawberry_2_2oz_.png",
+    "87946_Feritio_Matcha_Cheesecake_2_47oz_.png",
+    "87950_Feritio_Dubai_Chocolate_2_82oz_.png",
+    "87953_Feritio_Dubai_Chocolate_200g.png",
+    "87960_Marvel_Avengers_Asstd__Char__Fans.png",
+    "87965_Disney_Asstd__Character_Fans.png",
+    "87995_Fla_Vor_Ice_5_5_oz__45_Ct_Box.png",
+    "95075_Warmer_Unit.png",
+    "Page10_60100_Cheesewich_Mozzarella_String_Cheese_1_oz.png",
+    "Page10_60110_Cheesewich_Cheddar_Cheese_1_oz.png",
+    "Page10_60131_Cheesewich_Baconwich_1_17_oz.png",
+    "Page10_60200_Cheesewich_Hard_Salami___Colby_Jack_2_5_oz.png",
+    "Page10_60300_Cheesewich_Hard_Salami___Pepper_Jack_2_5_oz.png",
+    "Page11_21062_Original_Beef_Stick_1_oz.png",
+    "Page11_21065_Jalape\u00c3\u00b1o_Cheddar_Stick_1_oz.png",
+    "Page12_60004_Beecher_s_Flagship_Cheese_Sticks__Extra_Sharp_.png",
+    "Page12_60005_Beecher_s_Marco_Polo_Cheese_Sticks.png",
+    "Page13_61996_Van_Holten_Dill_Pickle.png",
+    "Page13_61997_Van_Holten_Kosher_Pickle.png",
+    "Page13_61999_Van_Holten_Hot_Pickle.png",
+    "Page14_61925_Oh_Snap__Sassy_Bites_3_25_oz.png",
+    "Page14_61936_Oh_Snap__Gone_Dilly_Whole_Pickle_3_oz.png",
+    "Page14_61937_Oh_Snap__Hottie_Whole_Pickle_3_oz.png",
+    "Page14_61938_Oh_Snap__Dilly_Bites_3_25_oz.png",
+    "Page15_22180_Hillshire_Snacking_Wine_Infused_Salame_2_76_oz.png",
+    "Page15_22181_Hillshire_Snacking_Genoa_Salame_2_76_oz.png",
+    "Page15_22182_Hillshire_Snacking_Italian_Salame_2_76_oz.png",
+    "Page16_84001_Ne_Mo_s_Carrot_Cake.png",
+    "Page16_84002_Ne_Mo_s_Banana_Cake.png",
+    "Page16_84003_Ne_Mo_s_Chocolate_Cake.png",
+    "Page16_84004_Ne_Mo_s_Strawberry_Cake.png",
+    "Page18_53414_THE_BOMB_Beef__Bean__Cheese____Red_Chile_12_oz.png",
+    "Page18_53415_THE_BOMB_Beef__Bean__Cheese____Green_Chile_12_oz.png",
+    "Page18_53416_THE_BOMB_Spicy_Red_Hot_\u00c2\u00bc_lb_12_oz.png",
+    "Page18_53431_DM_Bacon___Egg_Burrito_7_oz.png",
+    "Page18_53432_DM_Sausage___Egg_Burrito_7_oz.png",
+    "Page18_53450_DM_Whole_9_Yards_Burrito_7_oz.png",
+    "Page18_53575_DM_Triple_Play_Burrito_7_oz.png",
+    "Page19_53017_XXL_Bean___Cheese_Burrito_9_5_oz.png",
+    "Page19_53060_XXL_Beef__Bean___Grn_Chili_Burrito_9_5_oz.png",
+    "Page19_53069_XXL_Spicy_Red_Hot_Burrito_9_5_oz.png",
+    "Page19_53082_XXL_Beef___Bean_Burrito_9_5_oz.png",
+    "Page20_53016_Tornado_Cheese___Pepperoni_3oz_.png",
+    "Page20_53037_Tornado_Southwest_Chicken_3oz_.png",
+    "Page20_53044_Tornado_Cheesy_Pepper_Jack_3oz_.png",
+    "Page20_53090_Tornado_Ranchero_Beef___Cheese_3oz_.png",
+    "Page20_53144_Tornado_Egg_Bacon___Salsa_3oz_.png",
+    "Page20_53159_Tornado_Egg_Sausage___Cheese_3oz_.png",
+    "Page20_53168_Tornado_French_Toast_3oz_.png",
+    "Page21_53089_Kimbap_Vegetable.png",
+    "Page21_53096_Kimbap_Bulgogi.png",
+    "Page22_50232_JD_Canadian_Bacon_Egg_Cheese_Muffin.png",
+    "Page22_50233_JD_Sausage_Egg_Cheese_Muffin.png",
+    "Page22_50256_JD_Sausage_Egg_Pancake.png",
+    "Page22_50259_JD_Sausage_Egg_Cheese_Croisaant.png",
+    "Page22_50268_JD_Ham_Egg_Cheese_Muffin.png",
+    "Page22_50272_JD_Sausage_Egg_Cheese_Bagel.png",
+    "Page22_50274_JD_Sausage_Egg_Cheese_Biscuit.png",
+    "Page23_50012_Raybern_s_Roast_Beef___Cheddar_Melt.png",
+    "Page23_50069_Raybern_s_Chicken_Bacon_Ranch_Sandwich.png",
+    "Page23_50071_Raybern_s_Philly_Cheesesteak_Sandwich.png",
+    "Page23_50087_Raybern_s_BBQ_Pulled_Pork_Sandwich.png",
+    "Page24_50700_Big_Az_Country_Fried_Chicken_w_Cheese.png",
+    "Page24_50715_Big_Az_Bacon_Addict_Burger_9_35.png",
+    "Page24_50731_Big_Az_Kickin__Jalapeno_w_Cheese_9_7.png",
+    "Page24_50775_Big_Az_Angus_Cheddar_8_7oz_.png",
+    "Page24_50784_Big_Az_Beef_Charbroil_w_Cheese_8_9.png",
+    "Page25_56702_Hot_Pockets_Ham___Cheese_8_oz.png",
+    "Page25_56703_Hot_Pockets_Pepperoni_Pizza_8_oz.png",
+    "Page26_87995_Fla_Vor_Ice_5_5_oz__45_Ct_Box.png",
+    "Page36_84901_JJ_s_Apple_Pie_4oz_.png",
+    "Page36_84902_JJ_s_Cherry_Pie_4oz_.png",
+    "Page36_84903_JJ_s_Blackberry_Pie_4oz_.png",
+    "Page36_84906_JJ_s_Chocolate_Pie_4oz_.png",
+    "Page36_84915_JJ_s_Boston_Crm_Pie_4oz_.png",
+    "Page36_84916_JJ_s_Straw__Crm_Pie_4oz_.png",
+    "Page36_84929_JJ_s_Banana_Pie_4oz_.png",
+    "Page37_84930_CB_Chc_Chunk_Cookie_4oz_.png",
+    "Page38_84020_Iced_Lemon_Pound_Cake_4_oz.png",
+    "Page38_84021_Chocolate_Iced_Pound_Cake_4_oz.png",
+    "Page38_84022_Banana_Chocolate_Chip_Pound_Cake_4_oz.png",
+    "Page39_83025_Jonny_Almond_Praline_Pecans_4_oz.png",
+    "Page39_83027_Jonny_Almond_Cinnamon_Almonds_4_oz.png",
+    "Page39_83028_Jonny_Almond_Honeysalt_Cashews_4_oz.png",
+    "Page39_95075_Warmer_Unit.png",
+    "Page46_82704_Tajin_Mango_Rings_5_oz.png",
+    "Page46_82705_Tajin_Gummy_Bears_4_oz.png",
+    "Page46_82707_Hidden_Valley_Ranch_Almonds_2_5_oz.png",
+    "Page46_82710_Tajin_Watermelon_Rings_5_oz.png",
+    "Page46_82740_Tajin_Peanuts_5_oz.png",
+    "Page49_87940_Feritio_Angel_Hair_5_29oz_.png",
+    "Page49_87945_Feritio_Freeze_Dried_Strawberry_2_2oz_.png",
+    "Page49_87946_Feritio_Matcha_Cheesecake_2_47oz_.png",
+    "Page49_87950_Feritio_Dubai_Chocolate_2_82oz_.png",
+    "Page49_87953_Feritio_Dubai_Chocolate_200g.png",
+    "Page50_87571_Frost_Bites_Peach_Rings.png",
+    "Page50_87572_Frost_Bites_Watermelon_Rings.png",
+    "Page50_87573_Frost_Bites_Chamoy_Watermelon_Rings.png",
+    "Page50_87574_Frost_Bites_Sour_Worms.png",
+    "Page50_87575_Frost_Bites_Shark_Bites.png",
+    "Page50_87576_Frost_Bites_Ice_Cream_Neapolitan.png",
+    "Page50_87577_Frost_Bites_Ice_Cream_Vanilla.png",
+    "Page51_87543_Sour_Straws_Pineapple_Splash.png",
+    "Page51_87544_Sour_Straws_Blueberry_Bliss.png",
+    "Page51_87545_Sour_Straws_Wild_Strawberry.png",
+    "Page52_87300_60_PP_Mega_Tube__please_reuse__.png",
+    "Page52_87302_60_Itty_Bits_Mega_Tube__please_reuse__.png",
+    "Page53_80015_Spitz_Smoky_BBQ_6_oz.png",
+    "Page53_80016_Spitz_Original_6_oz.png",
+    "Page53_80018_Spitz_Dill_6_oz.png",
+    "Page53_80019_Spitz_Cracked_Pepper_6_oz.png",
+    "Page53_80039_Bigs_Vlasic_Dill_Pickle_5_35_oz.png",
+    "Page53_80040_Bigs_Takis_Seeds_5_35_oz.png",
+    "Page53_80041_Bigs_Sizzlin__Bacon_Seeds_5_35_oz.png",
+    "Page53_80043_Bigs_Hidden_Valley_Ranch_5_35_oz.png",
+    "Page53_80048_Bigs_Taco_Bell_Fire_5_35_oz_NEW_.png",
+    "Page53_80062_Bigs_Roasted_Pumpkin_Seeds_5_oz.png",
+    "Page55_83033_Taco_Works_Original_1_lb.png",
+    "Page56_83418_Simply_Stellar_12_oz.png",
+    "Page56_83419_Bold___Herby_12_oz.png",
+    "Page56_83421_Maui_Monk_12_oz.png",
+    "Page56_83423_French_Dijon_12_oz.png",
+    "Page56_83428_Thins_Sea_Salt_7_2_oz.png",
+    "Page56_83429_Thins_Truffle_Pesto_7_2_oz.png",
+    "Page56_83430_Thins_Bruschetta_7_2_oz.png",
+    "Page57_83418_Simply_Stellar_12_oz.png",
+    "Page57_83419_Bold___Herby_12_oz.png",
+    "Page57_83420_Sweet___Sparky_12_oz.png",
+    "Page57_83421_Maui_Monk_12_oz.png",
+    "Page57_83423_French_Dijon_12_oz.png",
+    "Page57_83428_Thins_Sea_Salt_7_2_oz.png",
+    "Page57_83429_Thins_Truffle_Pesto_7_2_oz.png",
+    "Page57_83430_Thins_Bruschetta_7_2_oz.png",
+    "Page57_83433_Cinnamon_Dolce_12_oz.png",
+    "Page58_83706_Roasted_Habanero_Sauce_8_oz.png",
+    "Page58_83709_Cilantro_Serrano_Sauce_8_oz.png",
+    "Page5_50606_BB_Egg_Salad_Haw_5_1oz_FR.png",
+    "Page5_50608_BB_Tky___Ched_Crsnt_6_2oz_FR.png",
+    "Page5_50609_BB_Ham___Swiss_Crsnt_6_2oz_FR.png",
+    "Page5_50624_BB_Tky_Pesto_Ciabatta_9_3oz_FR.png",
+    "Page5_50679_BB_Tuna_Salad_Honey_Oat_5_1oz_FR.png",
+    "Page5_50682_BB_Monte_Cristo_13_7oz_FR.png",
+    "Page5_50683_BB_Reuben_9_6oz_FR.png",
+    "Page5_50684_BB_Cuban_Special_FR.png",
+    "Page60_87700_Kidsmania_Unicorn_Doo.png",
+    "Page60_87701_Kidsmania_Slot_Machine.png",
+    "Page60_87702_Kidsmania_Peek_A_Boo.png",
+    "Page60_87703_Kidsmania_Ooze_Tube.png",
+    "Page60_87704_Kidsmania_Kitty_Korner.png",
+    "Page60_87705_Kidsmania_Mad_Science.png",
+    "Page60_87706_Kidsmania_Sneaky_Stardust.png",
+    "Page60_87710_Kidsmania_Sucker_Punch.png",
+    "Page60_87712_Kidsmania_Sour_Flush.png",
+    "Page60_87746_Kidsmania_Skool_Bus.png",
+    "Page60_87748_Kidsmania_Shark_Bite.png",
+    "Page60_87749_Kidsmania_Shark_Attack.png",
+    "Page61_87501_Raindrops_Hamburger_4_59_oz.png",
+    "Page61_87502_Raindrops_Pizza_3_oz.png",
+    "Page61_87503_Raindrops_Sushi_3_oz.png",
+    "Page61_87516_Raindrops_Candy_Foam_2_37_oz.png",
+    "Page61_87520_Raindrops_Magic_Potion.png",
+    "Page61_87521_Raindrops_Ice_Cream_Candy__88_oz.png",
+    "Page62_87304_Slush_Puppies_Dip_N_Lik.png",
+    "Page62_87305_Dippin__Dots_Dip_N_Lik.png",
+    "Page62_87306_Mr__Squeezy_Pop_Squeeze_N_Lik.png",
+    "Page62_87308_Dippin_Dots_Taffy_Bites.png",
+    "Page62_87309_World_s_Biggest_Candy_Necklace.png",
+    "Page62_87318_Slush_Puppies_Squeeze_Candy.png",
+    "Page62_87323_King_Cobra_Candy.png",
+    "Page62_87335_Unicorn_Dip_N_Lik.png",
+    "Page62_87340_ICEE_3pk_Dips_1_41_oz.png",
+    "Page62_87341_Splash_Potty_Dip_N_Lik.png",
+    "Page62_87365_ICEE_Dip_N_Lik.png",
+    "Page62_87366_ICEE_Giant_Gummy.png",
+    "Page62_87367_ICEE_Sour_Squeeze_Candy.png",
+    "Page62_87369_ICEE_Spray_Candy.png",
+    "Page62_87372_Candy_Hot_Pot.png",
+    "Page62_87378_Dippin__Dots_Popping_Candy.png",
+    "Page62_87388_Squeezy_Paint_Pop.png",
+    "Page62_87390_Ice_Cream_Twist_N_Lik.png",
+    "Page62_87400_Glo_Popcifier.png",
+    "Page64_87055_Mega_Slime_Licker_3_oz.png",
+    "Page64_87057_Slime_Licker_2_0_Black_Cherry___Sour_Apple_2_oz.png",
+    "Page64_87058_Slime_Licker_2_0_Blue_Raspberry___Strawberry_2_oz.png",
+    "Page64_87059_Slime_Licker_Double_Play.png",
+    "Page64_87060_Slime_Licker_Spray.png",
+    "Page65_87225_Charlotte_s_Country_Fudge_1_25_oz_Squares__seasona.png",
+    "Page65_87240_Viper_Blast_Spray.png",
+    "Page65_87241_Viper_Roller_Liquid.png",
+    "Page65_87243_Rose_Pops_Assorted.png",
+    "Page65_87250_Paintball_Pops_Giant_Jawbreaker_2_3_oz.png",
+    "Page65_87251_Dice_Pops_Assorted.png",
+    "Page65_87253_Blue_Ribbon_Coconut_Bar.png",
+    "Page65_87563_Twinkle_Heart_Pop.png",
+    "Page66_87960_Marvel_Avengers_Asstd__Char__Fans.png",
+    "Page66_87965_Disney_Asstd__Character_Fans.png",
+    "Page67_87220_Fluffy_Stuff_Cotton_Candy.png",
+    "Page67_87221_Watermelon_Cotton_Candy.png",
+    "Page68_87931_Kinder_Natoons_Eggs.png",
+    "Page6_87745_Kidsmania_Wacky_Monkey.png",
+    "Page7_50319_Freshwich_Turkey_Cheddar_Sub_5_5_oz.png",
+    "Page7_50320_Freshwich_Ham___Swiss_Sub_5_5_oz.png",
+    "Page7_50321_Freshwich_American_Club_5_5_oz.png",
+    "Page7_50322_Freshwich_Italian_Club_5_5_oz.png",
+    "Page8_21600_Johnson_Smokehouse_Cascade_Trail_Mix_4_oz.png",
+    "Page8_21601_Johnson_Spicy_Southwest_Trail_Mix_4_oz.png",
+    "Page9_60407_Wisconsin_s_Best_Cheddar_Stick_Combo_3_75_oz.png",
+    "Page9_60409_Wisconsin_s_Best_Pepper_Jack_Combo_3_75_oz.png",
+    "Page9_60464_Wisconsin_s_Best_Mixed_Cheese_Curds_4_oz.png",
+    "Page9_60468_Wisconsin_s_Best_Garlic_Dill_Curds_4_oz.png",
+    "Page9_60482_Wisconsin_s_Best_Medium_Cheddar_2_oz.png",
+    "Page9_60483_Wisconsin_s_Best_Colby_Jack_2_oz.png"
+  ]
+}

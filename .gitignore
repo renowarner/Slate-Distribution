@@ -6,7 +6,8 @@
 # Extracted Images/
 
 # Node/Build artifacts (for when we build the website)
-node_modules/
-dist/
+Website/node_modules/
+Website/dist/
 .DS_Store
 *.log
+Website/process_data.py
