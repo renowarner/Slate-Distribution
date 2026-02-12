@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Slate Distribution</title>
+    <script type="text/javascript">
+      // Single Page Apps for GitHub Pages
+      // This script takes the current url and converts the path and query string into just a query string,
+      // then redirects the browser to the index.html page with the new query string.
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        l.pathname.split('/').slice(0, 1).join('/') + '/?p=' +
+        encodeURIComponent(l.pathname.replace(/^\/Slate-Distribution/, '').replace(/\/$/, '')) +
+        (l.search ? '&q=' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      );
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
