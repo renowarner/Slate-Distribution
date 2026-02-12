@@ -1,0 +1,12 @@
+# Large PDF files
+*.pdf
+
+# Temporary or large image folders if they are too big for GitHub
+# (Optional: uncomment if you don't want the raw extraction images in Git)
+# Extracted Images/
+
+# Node/Build artifacts (for when we build the website)
+node_modules/
+dist/
+.DS_Store
+*.log

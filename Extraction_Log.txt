@@ -1,0 +1,130 @@
+Page 5: Found 9/8 images (TableY=556.5)
+Page 6: Found 1/1 images (TableY=792.0)
+Page 7: Found 8/4 images (TableY=622.5)
+Page 8: Found 2/4 images (TableY=617.9)
+  - Missing Item 21602 on Page 8
+  - Missing Item 21603 on Page 8
+Page 9: Found 7/6 images (TableY=606.9)
+Page 10: Found 7/5 images (TableY=605.5)
+Page 11: Found 3/2 images (TableY=563.1)
+Page 12: Found 4/2 images (TableY=637.7)
+Page 13: Found 5/4 images (TableY=587.5)
+Page 14: Found 4/4 images (TableY=512.3)
+Page 15: Found 3/3 images (TableY=606.8)
+Page 16: Found 5/4 images (TableY=599.7)
+Page 18: Found 7/10 images (TableY=490.3)
+  - Missing Item 53812 on Page 18
+  - Missing Item 53879 on Page 18
+  - Missing Item 53882 on Page 18
+Page 19: Found 4/4 images (TableY=596.1)
+Page 20: Found 10/7 images (TableY=578.7)
+Page 21: Found 3/2 images (TableY=638.0)
+Page 22: Found 7/7 images (TableY=496.8)
+Page 23: Found 4/4 images (TableY=506.9)
+Page 24: Found 5/5 images (TableY=523.8)
+Page 25: Found 4/3 images (TableY=578.8)
+Page 26: Found 2/1 images (TableY=687.6)
+Page 35: Found 0/30 images (TableY=214.4)
+  - Missing Item 84106 on Page 35
+  - Missing Item 84107 on Page 35
+  - Missing Item 84109 on Page 35
+  - Missing Item 84111 on Page 35
+  - Missing Item 84113 on Page 35
+  - Missing Item 84114 on Page 35
+  - Missing Item 84115 on Page 35
+  - Missing Item 84117 on Page 35
+  - Missing Item 84206 on Page 35
+  - Missing Item 84208 on Page 35
+  - Missing Item 84310 on Page 35
+  - Missing Item 84312 on Page 35
+  - Missing Item 84314 on Page 35
+  - Missing Item 84316 on Page 35
+  - Missing Item 84425 on Page 35
+  - Missing Item 84427 on Page 35
+  - Missing Item 84428 on Page 35
+  - Missing Item 84429 on Page 35
+  - Missing Item 84430 on Page 35
+  - Missing Item 84453 on Page 35
+  - Missing Item 84709 on Page 35
+  - Missing Item 84720 on Page 35
+  - Missing Item 84723 on Page 35
+  - Missing Item 84729 on Page 35
+  - Missing Item 84732 on Page 35
+  - Missing Item 84828 on Page 35
+  - Missing Item 84830 on Page 35
+  - Missing Item 84831 on Page 35
+  - Missing Item 84834 on Page 35
+  - Missing Item 84836 on Page 35
+Page 36: Found 7/7 images (TableY=597.8)
+Page 37: Found 10/3 images (TableY=604.2)
+Page 38: Found 4/3 images (TableY=615.2)
+Page 39: Found 5/4 images (TableY=674.9)
+Page 43: Found 0/8 images (TableY=19.1)
+  - Missing Item 82400 on Page 43
+  - Missing Item 92401 on Page 43
+  - Missing Item 82405 on Page 43
+  - Missing Item 82408 on Page 43
+  - Missing Item 82409 on Page 43
+  - Missing Item 82411 on Page 43
+  - Missing Item 82412 on Page 43
+  - Missing Item 82413 on Page 43
+Page 46: Found 7/15 images (TableY=416.4)
+  - Missing Item 82810 on Page 46
+  - Missing Item 82811 on Page 46
+  - Missing Item 82819 on Page 46
+  - Missing Item 82830 on Page 46
+  - Missing Item 82831 on Page 46
+  - Missing Item 82860 on Page 46
+  - Missing Item 82920 on Page 46
+  - Missing Item 82922 on Page 46
+Page 49: Found 6/5 images (TableY=581.6)
+Page 50: Found 8/8 images (TableY=584.7)
+Page 51: Found 3/9 images (TableY=595.8)
+  - Missing Item 87546 on Page 51
+  - Missing Item 87565 on Page 51
+  - Missing Item 87566 on Page 51
+  - Missing Item 87567 on Page 51
+  - Missing Item 87568 on Page 51
+  - Missing Item 87553 on Page 51
+Page 52: Found 4/3 images (TableY=688.4)
+Page 53: Found 10/23 images (TableY=390.6)
+  - Missing Item 80911 on Page 53
+  - Missing Item 80919 on Page 53
+  - Missing Item 80924 on Page 53
+  - Missing Item 80923 on Page 53
+  - Missing Item 80925 on Page 53
+  - Missing Item 81133 on Page 53
+  - Missing Item 81170 on Page 53
+  - Missing Item 81186 on Page 53
+  - Missing Item 81378 on Page 53
+  - Missing Item 81388 on Page 53
+  - Missing Item 81570 on Page 53
+  - Missing Item 81764 on Page 53
+  - Missing Item 81770 on Page 53
+Page 55: Found 1/1 images (TableY=636.8)
+Page 56: Found 7/7 images (TableY=567.8)
+Page 57: Found 10/9 images (TableY=571.9)
+Page 58: Found 2/2 images (TableY=589.8)
+Page 60: Found 12/27 images (TableY=348.1)
+  - Missing Item 87750 on Page 60
+  - Missing Item 87751 on Page 60
+  - Missing Item 87752 on Page 60
+  - Missing Item 87753 on Page 60
+  - Missing Item 87754 on Page 60
+  - Missing Item 87755 on Page 60
+  - Missing Item 87756 on Page 60
+  - Missing Item 87757 on Page 60
+  - Missing Item 87775 on Page 60
+  - Missing Item 87781 on Page 60
+  - Missing Item 87800 on Page 60
+  - Missing Item 87801 on Page 60
+  - Missing Item 87877 on Page 60
+  - Missing Item 87918 on Page 60
+  - Missing Item 87928 on Page 60
+Page 61: Found 6/6 images (TableY=583.1)
+Page 62: Found 20/19 images (TableY=494.9)
+Page 64: Found 7/5 images (TableY=603.1)
+Page 65: Found 8/8 images (TableY=551.8)
+Page 66: Found 2/2 images (TableY=594.7)
+Page 67: Found 2/2 images (TableY=604.9)
+Page 68: Found 4/2 images (TableY=630.5)
